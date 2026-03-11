@@ -5,7 +5,7 @@
 This repository is currently under active construction.  
 Structure, documents, and explanations may continue to evolve as the framework is refined.
 
-It is suggested to view from [index](docs/en/index.md). 
+It is recommended to read through [index](docs/en/index.md). 
 
 ---
 
@@ -82,7 +82,7 @@ The project will gradually organize documents around several topics, including:
 - industry-level case studies
 - possible institutional evolution paths
 
-It is suggested to view from [index](docs/en/index.md). Documents will continue to be updated.
+It is recommended to read through [index](docs/en/index.md). Documents will continue to be updated.
 
 ---
 

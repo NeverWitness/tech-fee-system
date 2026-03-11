@@ -80,7 +80,7 @@ The project will gradually organize documents around several topics, including:
 - industry-level case studies
 - possible institutional evolution paths
 
-Documents will continue to be updated.
+It is suggested to view from [index](docs/en/index.md).Documents will continue to be updated.
 
 ---
 

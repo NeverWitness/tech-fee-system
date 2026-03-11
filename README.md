@@ -44,22 +44,14 @@ A **Technology Fee** refers to the portion of a product or service price that re
 
 The relative proportion of technology fees varies significantly across industries:
 
-|Industry Type|Technology Fee Share|
-|---|---|
-|Agriculture|Low|
-|Basic industry|Low|
-|Traditional services|Low|
-|Advanced manufacturing|Medium|
-|Digital industries|High|
-
-The repository includes case studies across different sectors, such as:
-
-- agricultural products
-- basic industrial goods
-- advanced industrial products
-- traditional service industries
-- 2C digital services
-- 2B digital services
+| Industry Type | Technology Cost Ratio |
+| ------- | ------ |
+| Agriculture | Low |
+| Basic Industries | Low |
+| Traditional Services | Low |
+| High-end Manufacturing | Medium |
+| 2C Digital Services | High |
+| 2B Digital Services | Extremely High |
 
 ---
 

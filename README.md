@@ -11,7 +11,7 @@ Structure, documents, and explanations may continue to evolve as the framework i
 
 This project is currently provided in **both Chinese and English**.
 
-- The **Chinese version is the authoritative version**.
+- The [Chinese version](READM_ZH.md) **is the authoritative version**.
 - The **English version is a translation**.
 
 Before further notice, if there is any inconsistency, please refer to the **Chinese version**.

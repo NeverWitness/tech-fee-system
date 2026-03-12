@@ -28,12 +28,12 @@
 ## 一、问题背景
 
 ```
-docs/background/
+background/
 ```
 
 这一部分用于说明问题的现实背景，包括：
 
-- [资产差距难以消除](background/asset-ineuality.md)
+- [资产差距难以消除](background/asset-inequality.md)
 - 为什么生活差距比资产差距更重要
 
 该部分构成整个讨论的起点。
@@ -43,7 +43,7 @@ docs/background/
 ## 二、价格结构
 
 ```
-docs/price-structure/
+price-structure/
 ```
 
 这一部分讨论现代经济中的价格结构问题，包括：
@@ -58,7 +58,7 @@ docs/price-structure/
 ## 三、技术费用框架
 
 ```
-docs/technology-fee/
+technology-fee/
 ```
 
 这是项目的核心部分，主要讨论：
@@ -74,7 +74,7 @@ docs/technology-fee/
 ## 四、产业结构
 
 ```
-docs/industry/
+industry/
 ```
 
 这一部分通过概述性分析说明：
@@ -93,7 +93,7 @@ docs/industry/
 ## 五、制度讨论
 
 ```
-docs/policy-discussion/
+policy-discussion/
 ```
 
 这一部分讨论技术时代可能出现的一些制度问题，包括：
@@ -109,7 +109,7 @@ docs/policy-discussion/
 ## 六、制度演化
 
 ```
-docs/evolution/
+evolution/
 ```
 
 这一部分讨论制度在现实中的可能发展路径，例如：
@@ -122,7 +122,7 @@ docs/evolution/
 ## 七、附录
 
 ```
-docs/appendix/
+appendix/
 ```
 
 附录包含若干行业案例，用于说明技术费用在不同产业中的具体表现，例如：

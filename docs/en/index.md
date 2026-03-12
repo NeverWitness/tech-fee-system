@@ -30,12 +30,12 @@ The documentation of this project is organized into several sections.
 Directory:
 
 ```
-docs/background/
+background/
 ```
 
 This section explains the real-world context of the discussion, including:
 
-- why asset inequality is difficult to eliminate
+- [Why asset inequality is difficult to eliminate](background/asset-inequality.md)
 - why the distinction between asset inequality and living standards is important
 
 This part establishes the starting point for the entire discussion.

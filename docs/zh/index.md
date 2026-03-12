@@ -34,7 +34,7 @@ background/
 这一部分用于说明问题的现实背景，包括：
 
 - [资产差距难以消除](background/asset-inequality.md)
-- 为什么生活差距比资产差距更重要
+- [生活差距比资产差距更重要](background/asset-vs-living-gap.md)
 
 该部分构成整个讨论的起点。
 

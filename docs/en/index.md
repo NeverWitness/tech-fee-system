@@ -1,4 +1,3 @@
-```markdown
 # Documentation Overview
 
 ⚠️ **Documentation Status: Work in Progress**
@@ -12,7 +11,7 @@ This page serves as an overview of the documentation and explains:
 - the intended reading order  
 - the scope of the project documentation  
 
-For a general introduction to the project, please refer to the repository **README**.
+For a general introduction to the project, please refer to the repository [README](../../README.md).
 
 ---
 
@@ -22,14 +21,16 @@ The documentation of this project is organized into several sections.
 
 ---
 
+## 0. [Overview](overview/overview.md)
+
+---
+
 ## 1. Background
 
 Directory:
 
 ```
-
 docs/background/
-
 ```
 
 This section explains the real-world context of the discussion, including:
@@ -46,9 +47,7 @@ This part establishes the starting point for the entire discussion.
 Directory:
 
 ```
-
 docs/price-structure/
-
 ```
 
 This section discusses price structures in modern economies, including:
@@ -65,9 +64,7 @@ This section provides the economic foundation for the later discussions.
 Directory:
 
 ```
-
 docs/technology-fee/
-
 ```
 
 This is the core conceptual section of the project.  
@@ -86,9 +83,7 @@ It discusses topics such as:
 Directory:
 
 ```
-
 docs/industry/
-
 ```
 
 This section provides an overview of how technology fees differ across industries, for example:
@@ -107,9 +102,7 @@ The purpose of this section is to show how the relative importance of technology
 Directory:
 
 ```
-
 docs/policy-discussion/
-
 ```
 
 This section explores several institutional questions that may arise in the technological era, including:
@@ -129,9 +122,7 @@ These discussions are exploratory and aim to frame possible questions rather tha
 Directory:
 
 ```
-
 docs/evolution/
-
 ```
 
 This section considers possible long-term developments of institutional structures, including:
@@ -148,9 +139,7 @@ The goal is to discuss how such frameworks might emerge gradually rather than th
 Directory:
 
 ```
-
 docs/appendix/
-
 ```
 
 The appendix contains several industry case studies used to illustrate how technology fees appear in different sectors, including:
@@ -216,4 +205,3 @@ As research and discussions continue, the documentation may be updated to:
 - expand case studies
 
 Therefore, the structure of the documentation may evolve over time.
-```

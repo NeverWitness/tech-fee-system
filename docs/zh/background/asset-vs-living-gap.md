@@ -160,4 +160,6 @@
 
 这一问题将在下一节中进一步讨论。
 
+下一节：[基础生活品和体验升级](../price-structure/basic-goods-and-beyond.md)
+
 [回到目录](../index.md)

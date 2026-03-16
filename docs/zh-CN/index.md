@@ -48,7 +48,7 @@ price-structure/
 
 这一部分讨论现代经济中的价格结构问题，包括：
 
-- 基础生活品的边界
+- [基础生活品和体验升级](../price-structure/basic-goods-and-beyond.md)
 - 为什么实现生活保障需要重构物价结构
 
 这一部分为后续讨论提供经济结构基础。

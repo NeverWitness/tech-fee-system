@@ -250,6 +250,6 @@
 
 下一节将进一步讨论**技术费用的动态变化**。
 
-[]()
+[下一节](technology-fee/dynamic-change.md)
 
 [回到目录](../index.md)

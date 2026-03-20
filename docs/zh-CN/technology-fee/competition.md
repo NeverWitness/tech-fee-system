@@ -281,6 +281,6 @@
 
 下一部分将进入：**技术费用在产业结构中的差异。**
 
-[下一节](../technology-fee/competition.md)
+[下一节](../policy-discussion/dynamic-public-dividend.md)
 
 [回到目录](../index.md)

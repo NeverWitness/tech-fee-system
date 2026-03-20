@@ -1,6 +1,6 @@
 # 实现生活保障需要重构物价结构
 
-上一节：[生活差距比资产差距更重要](../price-structure/basic-goods-and-beyond.md)
+上一节：[基础生活品和体验升级](basic-goods-and-beyond.md)
 
 [回到目录](../index.md)
 

@@ -287,6 +287,6 @@
 
 下一节将进一步讨论**技术如何转化为企业竞争力**。
 
-[下一节](../technology-fee/system-and-public-access.md)
+[下一节](../technology-fee/competition.md)
 
 [回到目录](../index.md)

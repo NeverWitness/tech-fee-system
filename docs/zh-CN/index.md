@@ -79,7 +79,7 @@ policy-discussion/
 
 这一部分讨论技术时代可能出现的一些制度问题，包括：
 
-- 动态全民补助机制
+- [动态全民补助机制](policy-discussion/dynamic-public-dividend.md)
 - 传统税收体系在技术时代面临的困境
 - 技术费用如何回应技术时代的税收问题
 - 价格压缩是否会导致供给侧扭曲

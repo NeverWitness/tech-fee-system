@@ -263,6 +263,6 @@
 
 下一节将进一步讨论**技术层级与知识扩散**。
 
-[技术天然形成层级而知识被人为扩散](../technology-fee/technology-hierarchy.md)
+[技术天然形成层级而知识被人为扩散](../technology-fee/hierarchy-and-dissemination.md)
 
 [回到目录](../index.md)

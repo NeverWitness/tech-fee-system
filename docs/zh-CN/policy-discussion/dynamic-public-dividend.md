@@ -275,6 +275,6 @@
 
 下一节将进一步讨论**传统税收体系在技术时代面临的困境**。
 
-[下一节](../)
+[下一节](../policy-discussion/taxation-in-the-tech-era.md)
 
 [回到目录](../index.md)

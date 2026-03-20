@@ -64,7 +64,7 @@ technology-fee/
 这是项目的核心部分，主要讨论：
 
 - [技术费用的基本概念](technology-fee/concept.md)
-- 技术层级与知识扩散
+- [技术层级与知识扩散](technology-fee/technology-hierarchy.md)
 - 技术费用的动态变化
 - 技术公开与授权使用
 - 技术如何通过人和组织转化为企业竞争力

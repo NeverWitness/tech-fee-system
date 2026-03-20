@@ -259,6 +259,6 @@
 
 下一节将进一步讨论**技术如何被公开与授权使用**。
 
-[下一章](../technology-fee/system-and-public-access.md)
+[下一节](../technology-fee/system-and-public-access.md)
 
 [回到目录](../index.md)

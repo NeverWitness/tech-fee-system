@@ -1,6 +1,6 @@
 # 技术费用永远在动态变化
 
-上一节：[技术天然形成层级而知识被人为扩散](../technology-fee/technology-hierarchy.md)
+上一节：[技术天然形成层级而知识被人为扩散](../technology-fee/hierarchy-and-dissemination.md)
 
 [回到目录](../index.md)
 
@@ -259,6 +259,6 @@
 
 下一节将进一步讨论**技术如何被公开与授权使用**。
 
-[技术天然形成层级而知识被人为扩散](../technology-fee/technology-hierarchy.md)
+[下一章](../technology-fee/system-and-public-access.md)
 
 [回到目录](../index.md)

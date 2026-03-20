@@ -264,6 +264,6 @@
 
 下一节将讨论**技术费用如何回应技术时代的税收困境**。
 
-[下一节](../)
+[下一节](../policy-discussion/technology-fee-response.md)
 
 [回到目录](../index.md)

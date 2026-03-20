@@ -1,6 +1,6 @@
 # 通过人和组织转化为企业竞争力
 
-上一节：[技术费用永远在动态变化](../technology-fee/dynamic-change.md)
+上一节：[基于技术费用的新制度：公开与授权使用](technology-fee/system-and-public-access.md)
 
 [回到目录](../index.md)
 

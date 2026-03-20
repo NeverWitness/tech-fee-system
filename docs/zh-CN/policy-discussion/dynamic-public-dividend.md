@@ -1,6 +1,6 @@
 # 动态全民补助机制
 
-上一节：[技术费用永远在动态变化](../technology-fee/dynamic-change.md)
+上一节：[通过人和组织转化为企业竞争力](technology-fee/competition.md)
 
 [回到目录](../index.md)
 
@@ -275,6 +275,6 @@
 
 下一节将进一步讨论**传统税收体系在技术时代面临的困境**。
 
-[下一节](../technology-fee/competition.md)
+[下一节](../)
 
 [回到目录](../index.md)

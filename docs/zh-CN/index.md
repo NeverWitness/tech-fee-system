@@ -65,8 +65,8 @@ technology-fee/
 
 - [技术费用的普遍存在](technology-fee/concept.md)
 - [技术天然形成层级而知识被人为扩散](technology-fee/technology-hierarchy.md)
-- [技术费用永远在动态变化](technology-fee/)
-- 技术公开与授权使用
+- [技术费用永远在动态变化](technology-fee/dynamic-change.md)
+- [基于技术费用的新制度：公开与授权使用](technology-fee/)
 - 技术如何通过人和组织转化为企业竞争力
 
 ---

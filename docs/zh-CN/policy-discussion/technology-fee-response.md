@@ -272,6 +272,6 @@
 
 下一节将讨论**价格压缩是否会导致供给侧扭曲**。
 
-[下一节](../policy-discussion/taxation-in-the-tech-era.md)
+[下一节](../policy-discussion/supply-distortion-question.md)
 
 [回到目录](../index.md)

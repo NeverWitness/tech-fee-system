@@ -11,7 +11,7 @@ This page describes:
 * Recommended reading order
 * Scope of each section
 
-For an overall introduction, see the repository homepage: [README_EN](../../README_EN.md).
+For an overall introduction, see the repository homepage: [README](../../README.md).
 
 ---
 

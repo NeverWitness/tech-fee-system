@@ -1,23 +1,23 @@
-# Documentation Overview
+# Documentation Notes
 
-⚠️ **Documentation Status: Work in Progress**
+⚠️ **Status: Under Construction**
 
-The documentation of this project is still being organized and expanded.  
-The structure of the documents, section arrangements, and some descriptions may continue to evolve as the discussion develops.
+The documentation for this project is still being organized and continuously updated.
+The directory structure, chapter arrangement, and some content may be adjusted as discussions evolve.
 
-This page serves as an overview of the documentation and explains:
+This page describes:
 
-- the structure of the documents  
-- the intended reading order  
-- the scope of the project documentation  
+* Document structure
+* Recommended reading order
+* Scope of each section
 
-For a general introduction to the project, please refer to the repository [README](../../README.md).
+For an overall introduction, see the repository homepage: [README_EN](../../README_EN.md).
 
 ---
 
-# Structure of the Documentation
+# Document Structure
 
-The documentation of this project is organized into several sections.
+The project documentation is divided into the following sections:
 
 ---
 
@@ -27,181 +27,160 @@ The documentation of this project is organized into several sections.
 
 ## 1. Background
 
-Directory:
-
 ```
 background/
 ```
 
-This section explains the real-world context of the discussion, including:
+This section explains the real-world context of the problem, including:
 
-- [Why asset inequality is difficult to eliminate](background/asset-inequality.md)
-- why the distinction between asset inequality and living standards is important
+* [Asset Inequality Is Difficult to Eliminate](background/asset-inequality.md)
+* [The Living Gap Matters More Than Asset Inequality](background/asset-vs-living-gap.md)
 
-This part establishes the starting point for the entire discussion.
+This section serves as the starting point for the entire discussion.
 
 ---
 
 ## 2. Price Structure
 
-Directory:
-
 ```
-docs/price-structure/
+price-structure/
 ```
 
-This section discusses price structures in modern economies, including:
+This section examines pricing structures in modern economies, including:
 
-- the boundary of basic goods
-- why restructuring price structures may be necessary for maintaining basic living standards
+* [Basic Goods and Experience Upgrades](price-structure/basic-goods-and-beyond.md)
+* [Reconstructing Price Structures for Basic Living Guarantees](price-structure/price-structure-matters.md)
 
-This section provides the economic foundation for the later discussions.
+It provides the economic foundation for subsequent discussions.
 
 ---
 
 ## 3. Technology Fee Framework
 
-Directory:
-
 ```
-docs/technology-fee/
+technology-fee/
 ```
 
-This is the core conceptual section of the project.  
-It discusses topics such as:
+This is the core section of the project, focusing on:
 
-- the concept of technology fees
-- technological hierarchies and knowledge diffusion
-- dynamic changes in technology fees
-- public access and authorization of technology
-- how technology becomes competitive advantage through people and organizations
+* [The Ubiquity of Technology Fees](technology-fee/concept.md)
+* [Technology Forms Natural Hierarchies While Knowledge Is Artificially Disseminated](technology-fee/hierarchy-and-dissemination.md)
+* [Technology Fees Are Always Dynamically Changing](technology-fee/dynamic-change.md)
+* [A New System Based on Technology Fees: Public Access and Licensed Use](technology-fee/system-and-public-access.md)
+* [Transforming Technology into Competitive Advantage via People and Organizations](technology-fee/competition.md)
 
 ---
 
-## 4. Industry Structure
-
-Directory:
+## 4. Policy Discussion
 
 ```
-docs/industry/
+policy-discussion/
 ```
 
-This section provides an overview of how technology fees differ across industries, for example:
+This section explores potential institutional issues in the technological era, including:
 
-- agriculture
-- basic industry
-- traditional services
-- digital industries
-
-The purpose of this section is to show how the relative importance of technology fees varies across economic sectors.
+* [Dynamic Public Dividend Mechanism](policy-discussion/dynamic-public-dividend.md)
+* [Challenges to Traditional Tax Systems in the Tech Era](policy-discussion/taxation-in-the-tech-era.md)
+* [How Technology Fees Address Taxation Challenges](policy-discussion/technology-fee-response.md)
+* [Price Adjustments and Supply Optimization](policy-discussion/supply-distortion-question.md)
+* [External Challenges to the Technology Fee System](policy-discussion/external-challenges.md)
 
 ---
 
-## 5. Policy Discussion
-
-Directory:
+## 5. Institutional Evolution
 
 ```
-docs/policy-discussion/
+evolution/
 ```
 
-This section explores several institutional questions that may arise in the technological era, including:
+This section discusses possible real-world development paths of the system, such as:
 
-- dynamic public support mechanisms
-- challenges faced by traditional taxation systems
-- how technology fees may relate to these challenges
-- whether price compression could distort supply
-- external challenges such as international economic conditions
-
-These discussions are exploratory and aim to frame possible questions rather than provide final policy solutions.
+* [Enterprise Strategy and Division of Technology](evolution/enterprise-strategy.md)
+* [Possible Paths of Institutional Evolution](evolution/institutional-evolution.md)
 
 ---
 
-## 6. Institutional Evolution
-
-Directory:
+## 6. Appendix I: Industry Structure
 
 ```
-docs/evolution/
+appendix/industry/
 ```
 
-This section considers possible long-term developments of institutional structures, including:
+This section provides a high-level structural analysis, including:
 
-- enterprise strategies and technological division of labor
-- potential paths of institutional evolution
+1. Differences in technology fee proportions across industries, such as:
 
-The goal is to discuss how such frameworks might emerge gradually rather than through abrupt systemic change.
+* Agriculture
+* Basic industry
+* Traditional services
+* Digital industries
+
+2. Several industry case examples illustrating how technology fees manifest in practice, including:
+
+* Agricultural products
+* Premium agricultural products
+* Basic industrial products
+* Advanced industrial products
+* Traditional services
+* B2C digital services
+* B2B digital services
+
+This appendix provides structural overviews and illustrative cases only; it does not constitute a comprehensive industry study.
 
 ---
 
-## 7. Appendix
-
-Directory:
-
-```
-docs/appendix/
-```
-
-The appendix contains several industry case studies used to illustrate how technology fees appear in different sectors, including:
-
-- agricultural products
-- industrial products
-- traditional services
-- digital services
-
-These case studies serve primarily as conceptual illustrations rather than comprehensive industry research.
+## 7. Appendix II: Compatibility of Existing Systems with Explicit Technology Fees (Planned)
 
 ---
 
-# Suggested Reading Order
+# Recommended Reading Order
 
-Readers who wish to follow the overall logic of the project may find the following order helpful:
+It is recommended to read the documentation in the following order:
 
-1. Background  
-2. Price Structure  
-3. Technology Fee Framework  
-4. Industry Structure  
-5. Policy Discussion  
-6. Institutional Evolution  
-7. Appendix (case studies)
+1. Background
+2. Price Structure
+3. Technology Fee Framework
+4. Policy Discussion
+5. Institutional Evolution
+6. Appendices
 
 ---
 
 # Scope of the Documentation
 
-At the current stage, the project focuses primarily on:
+At the current stage, this project focuses on:
 
-**the role of technology fees in modern economic structures.**
+**The role of technology fees in modern economic structures.**
 
 The documentation emphasizes:
 
-- conceptual clarification
-- structural analysis
-- illustrative industry cases
-- exploratory institutional discussions
+* Conceptual clarification
+* Structural analysis
+* Institutional discussion
+* Industry case studies
 
-The project does **not attempt to present a finalized policy program**, but rather aims to provide a framework for discussion.
+This version does not aim to provide a complete policy solution, but rather a structural framework for discussion.
 
 ---
 
 # Project Timeline
 
-The development of this project roughly follows these stages:
+The development of this project can be roughly outlined as follows:
 
-- **May 2025** — Initial exploration of related questions  
-- **October 2025** — Beginning of systematic organization of ideas  
-- **February 2026** — First public discussions through articles published on Zhihu
+* **May 2025**: Initial exploration of related issues
+* **October 2025**: Beginning of systematic organization
+* **February 2026**: First public discussion of key ideas on Zhihu
 
-The current repository organizes those discussions into a more structured form.
+The current version focuses on consolidating existing content and improving overall coherence.
 
 ---
 
-# Future Updates
+# Document Updates
 
-As research and discussions continue, the documentation may be updated to:
+As research and discussions progress, the documentation may:
 
-- add new sections
-- adjust the current structure
-- expand case studies
+* Add new sections
+* Adjust structure
+* Expand case studies
 
-Therefore, the structure of the documentation may evolve over time.
+Therefore, the structure of the documentation may continue to evolve.

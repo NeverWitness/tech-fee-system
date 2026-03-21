@@ -1,6 +1,6 @@
 # 技术费用如何回应技术时代的税收困境
 
-上一节：[传统税收体系在技术时代面临的困境](policy-discussion/taxation-in-the-tech-era.md)
+上一节：[传统税收体系在技术时代面临的困境](../policy-discussion/taxation-in-the-tech-era.md)
 
 [回到目录](../index.md)
 

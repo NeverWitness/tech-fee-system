@@ -1,6 +1,6 @@
 # 动态全民补助机制
 
-上一节：[通过人和组织转化为企业竞争力](technology-fee/competition.md)
+上一节：[通过人和组织转化为企业竞争力](../technology-fee/competition.md)
 
 [回到目录](../index.md)
 

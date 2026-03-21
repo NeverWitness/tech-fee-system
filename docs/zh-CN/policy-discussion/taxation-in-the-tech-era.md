@@ -1,6 +1,6 @@
 # 传统税收体系在技术时代面临的困境
 
-上一节：[动态全民补助机制](policy-discussion/dynamic-public-dividend.md)
+上一节：[动态全民补助机制](../policy-discussion/dynamic-public-dividend.md)
 
 [回到目录](../index.md)
 

@@ -96,7 +96,7 @@ evolution/
 这一部分讨论制度在现实中的可能发展路径，例如：
 
 - [企业策略与技术分工](evolution/enterprise-strategy.md)
-- [制度演化路径](evolution/)
+- [制度的可能演化路径](evolution/institutional-evolution.md)
 
 ---
 

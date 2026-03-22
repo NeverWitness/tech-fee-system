@@ -5,7 +5,7 @@
 This repository is currently under active construction.  
 Structure, documents, and explanations may continue to evolve as the framework is refined.
 
-It is recommended to read through [documentation notes](docs/en-US/index.md). 
+It is recommended to read through [Documentation Notes](docs/en-US/index.md). 
 
 ---
 

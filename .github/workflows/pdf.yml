@@ -46,8 +46,9 @@ jobs:
 
           EOF
 
-          cat \
-            build/title.md \
+          cat build/title.md > build/book-zh.md
+
+          for file in \
             docs/zh-CN/index.md \
             docs/zh-CN/overview/overview.md \
             docs/zh-CN/background/asset-inequality.md \
@@ -65,8 +66,11 @@ jobs:
             docs/zh-CN/policy-discussion/supply-distortion-question.md \
             docs/zh-CN/policy-discussion/external-challenges.md \
             docs/zh-CN/evolution/enterprise-strategy.md \
-            docs/zh-CN/evolution/institutional-evolution.md \
-            > build/book-zh.md
+            docs/zh-CN/evolution/institutional-evolution.md
+          do
+            cat "$file" >> build/book-zh.md
+            echo -e "\n\\clearpage\n" >> build/book-zh.md
+          done
 
       - name: Replace unsupported emoji
         run: |

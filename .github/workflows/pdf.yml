@@ -68,8 +68,8 @@ jobs:
             docs/zh-CN/evolution/enterprise-strategy.md \
             docs/zh-CN/evolution/institutional-evolution.md
           do
-            cat "$file" >> build/book-zh.md
             printf '\n\\clearpage\n\n' >> build/book-zh.md
+            cat "$file" >> build/book-zh.md
           done
 
       - name: Replace unsupported emoji

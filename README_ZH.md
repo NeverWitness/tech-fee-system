@@ -1,6 +1,6 @@
 # 技术费用体系（Technology Fee Framework）
 
-⚠️ **项目状态：开放讨论阶段**
+⚠️ **项目状态：附录补充阶段**
 
 建议通过[文档说明](docs/zh-CN/index.md)中的目录查看。
 

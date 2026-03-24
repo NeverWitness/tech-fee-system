@@ -36,7 +36,6 @@ jobs:
           date: \today
           lang: zh-CN
           toc: true
-          numbersections: true
           papersize: a4
           geometry: margin=2.2cm
           fontsize: 12pt
@@ -44,7 +43,7 @@ jobs:
             - \usepackage{xeCJK}
             - \setCJKmainfont{Noto Serif CJK SC}
           ---
-          
+
           EOF
 
           cat \
@@ -69,6 +68,11 @@ jobs:
             docs/zh-CN/evolution/institutional-evolution.md \
             > build/book-zh.md
 
+      - name: Replace unsupported emoji
+        run: |
+          sed -i 's/⚠️/[注意]/g' build/book-zh.md
+          sed -i 's/⚠/[注意]/g' build/book-zh.md
+
       - name: Convert markdown to PDF
         run: |
           pandoc build/book-zh.md \
@@ -76,7 +80,6 @@ jobs:
             --pdf-engine=xelatex \
             --standalone \
             --toc \
-            --number-sections \
             -o build/tech-fee-framework-zh.pdf
 
       - name: Upload PDF artifact

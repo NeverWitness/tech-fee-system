@@ -16,7 +16,13 @@ jobs:
       - name: Install Pandoc and XeLaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra fonts-noto-cjk texlive-lang-chinese
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-latex-extra \
+            texlive-lang-chinese \
+            fonts-noto-core \
+            fonts-noto-cjk
 
       - name: Create build directory
         run: mkdir -p build
@@ -37,7 +43,6 @@ jobs:
           header-includes:
             - \usepackage{xeCJK}
             - \setCJKmainfont{Noto Serif CJK SC}
-            - \setmainfont{Noto Serif}
           ---
           
           EOF

@@ -69,13 +69,21 @@ jobs:
             docs/zh-CN/evolution/institutional-evolution.md
           do
             cat "$file" >> build/book-zh.md
-            echo -e "\n\\clearpage\n" >> build/book-zh.md
+            echo -e "\n\\newpage\n" >> build/book-zh.md
           done
 
       - name: Replace unsupported emoji
         run: |
           sed -i 's/⚠️/[注意]/g' build/book-zh.md
           sed -i 's/⚠/[注意]/g' build/book-zh.md
+
+      - name: Clean links and remove TOC backlinks
+        run: |
+          # 删除“回到目录”整行（包含可能的链接形式）
+          sed -i '/回到目录/d' build/book-zh.md
+
+          # 将 [text](url) 替换为 text
+          sed -i -E 's/\[([^\]]+)\]\([^)]+\)/\1/g' build/book-zh.md
 
       - name: Convert markdown to PDF
         run: |

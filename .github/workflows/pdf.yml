@@ -1,0 +1,81 @@
+name: Build PDF
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-zh-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra fonts-noto-cjk
+
+      - name: Create build directory
+        run: mkdir -p build
+
+      - name: Generate combined markdown
+        run: |
+          cat > build/title.md <<'EOF'
+          ---
+          title: "技术费用框架"
+          author: "NeverWitness"
+          date: \today
+          lang: zh-CN
+          toc: true
+          numbersections: true
+          papersize: a4
+          geometry: margin=2.2cm
+          fontsize: 12pt
+          header-includes:
+            - \usepackage{xeCJK}
+            - \setCJKmainfont{Noto Serif CJK SC}
+            - \setmainfont{Noto Serif}
+          ---
+          
+          EOF
+
+          cat \
+            build/title.md \
+            docs/zh-CN/index.md \
+            docs/zh-CN/overview/overview.md \
+            docs/zh-CN/background/asset-inequality.md \
+            docs/zh-CN/background/asset-vs-living-gap.md \
+            docs/zh-CN/price-structure/basic-goods-and-beyond.md \
+            docs/zh-CN/price-structure/price-structure-matters.md \
+            docs/zh-CN/technology-fee/concept.md \
+            docs/zh-CN/technology-fee/hierarchy-and-dissemination.md \
+            docs/zh-CN/technology-fee/dynamic-change.md \
+            docs/zh-CN/technology-fee/system-and-public-access.md \
+            docs/zh-CN/technology-fee/competition.md \
+            docs/zh-CN/policy-discussion/dynamic-public-dividend.md \
+            docs/zh-CN/policy-discussion/taxation-in-the-tech-era.md \
+            docs/zh-CN/policy-discussion/technology-fee-response.md \
+            docs/zh-CN/policy-discussion/supply-distortion-question.md \
+            docs/zh-CN/policy-discussion/external-challenges.md \
+            docs/zh-CN/evolution/enterprise-strategy.md \
+            docs/zh-CN/evolution/institutional-evolution.md \
+            > build/book-zh.md
+
+      - name: Convert markdown to PDF
+        run: |
+          pandoc build/book-zh.md \
+            --from markdown \
+            --pdf-engine=xelatex \
+            --standalone \
+            --toc \
+            --number-sections \
+            -o build/tech-fee-framework-zh.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tech-fee-framework-zh-pdf
+          path: build/tech-fee-framework-zh.pdf

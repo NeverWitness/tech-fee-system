@@ -1,6 +1,6 @@
 # 价格调整将进一步优化供给
 
-上一节：[技术费用如何回应技术时代的税收问题](policy-discussion/technology-fee-response.md)
+[上一节：技术费用如何回应技术时代的税收问题](../policy-discussion/technology-fee-response.md)
 
 [回到目录](../index.md)
 

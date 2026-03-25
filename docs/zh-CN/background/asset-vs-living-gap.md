@@ -141,6 +141,6 @@
 在许多情况下，社会稳定与公平感更多取决于 **生活条件差异**。  
 因此，在下一节中将进一步讨论**如何通过价格结构与产业结构，控制生活差距**。
 
-[基础生活品和体验升级](../price-structure/basic-goods-and-beyond.md)
+[下一节：基础生活品和体验升级](../price-structure/basic-goods-and-beyond.md)
 
 [回到目录](../index.md)

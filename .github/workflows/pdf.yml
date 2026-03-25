@@ -45,6 +45,9 @@ jobs:
             - \usepackage{enumitem}
             - \setlist[itemize]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
             - \setlist[enumerate]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
+            - \usepackage{titlesec}
+            - \titlespacing*{\section}{0pt}{1.5\baselineskip}{1.2\baselineskip}
+            - \titlespacing*{\subsection}{0pt}{1.2\baselineskip}{1\baselineskip}
           ---
 
           EOF
@@ -94,7 +97,7 @@ jobs:
             fi
 
             # 只处理正文文件里的分割线，不碰 title.md
-            sed -i -E '/^[[:space:]]*([-*_][[:space:]]*){3,}$/d' "$tmp"
+            sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{1\\baselineskip}/' "$tmp"
 
             printf '\n\n\\clearpage\n\n' >> build/book-zh.md
             cat "$tmp" >> build/book-zh.md

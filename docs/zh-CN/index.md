@@ -26,7 +26,7 @@ background/
 
 这一部分用于说明问题的现实背景，包括：
 
-- [资产差距难以消除](background/asset-inequality.md)
+- [资产差距难以消除](background/asset-inequality.md)  
 - [生活差距比资产差距更重要](background/asset-vs-living-gap.md)
 
 该部分构成整个讨论的起点。
@@ -41,7 +41,7 @@ price-structure/
 
 这一部分讨论现代经济中的价格结构问题，包括：
 
-- [基础生活品和体验升级](price-structure/basic-goods-and-beyond.md)
+- [基础生活品和体验升级](price-structure/basic-goods-and-beyond.md)  
 - [实现生活保障需要重构物价结构](price-structure/price-structure-matters.md)
 
 这一部分为后续讨论提供经济结构基础。
@@ -56,10 +56,10 @@ technology-fee/
 
 这是项目的核心部分，主要讨论：
 
-- [技术费用的普遍存在](technology-fee/concept.md)
-- [技术天然形成层级而知识被人为扩散](technology-fee/hierarchy-and-dissemination.md)
-- [技术费用永远在动态变化](technology-fee/dynamic-change.md)
-- [基于技术费用的新制度：公开与授权使用](technology-fee/system-and-public-access.md)
+- [技术费用的普遍存在](technology-fee/concept.md)  
+- [技术天然形成层级而知识被人为扩散](technology-fee/hierarchy-and-dissemination.md)  
+- [技术费用永远在动态变化](technology-fee/dynamic-change.md)  
+- [基于技术费用的新制度：公开与授权使用](technology-fee/system-and-public-access.md)  
 - [通过人和组织转化为企业竞争力](technology-fee/competition.md)
 
 ---
@@ -72,10 +72,10 @@ policy-discussion/
 
 这一部分讨论技术时代可能出现的一些制度问题，包括：
 
-- [动态全民补助机制](policy-discussion/dynamic-public-dividend.md)
-- [传统税收体系在技术时代面临的困境](policy-discussion/taxation-in-the-tech-era.md)
-- [技术费用如何回应技术时代的税收问题](policy-discussion/technology-fee-response.md)
-- [价格调整将进一步优化供给](policy-discussion/supply-distortion-question.md)
+- [动态全民补助机制](policy-discussion/dynamic-public-dividend.md)  
+- [传统税收体系在技术时代面临的困境](policy-discussion/taxation-in-the-tech-era.md)  
+- [技术费用如何回应技术时代的税收问题](policy-discussion/technology-fee-response.md)  
+- [价格调整将进一步优化供给](policy-discussion/supply-distortion-question.md)  
 - [技术费用制度可能面临的外部挑战](policy-discussion/external-challenges.md)
 
 ---
@@ -88,7 +88,7 @@ evolution/
 
 这一部分讨论制度在现实中的可能发展路径，例如：
 
-- [企业策略与技术分工](evolution/enterprise-strategy.md)
+- [企业策略与技术分工](evolution/enterprise-strategy.md)  
 - [制度的可能演化路径](evolution/institutional-evolution.md)
 
 ---
@@ -130,11 +130,11 @@ appendix/industry/
 
 建议按照以下顺序阅读文档：
 
-1. 问题背景  
-2. 价格结构  
-3. 技术费用框架  
-4. 制度讨论  
-5. 制度演化  
+1. 问题背景
+2. 价格结构
+3. 技术费用框架
+4. 制度讨论
+5. 制度演化
 6. 附录
 
 ---
@@ -160,9 +160,9 @@ appendix/industry/
 
 本项目中的构想形成过程大致如下：
 
-- **2025 年 5 月**：开始对相关问题进行初步思考  
-- **2025 年 10 月**：开始进行系统化整理  
-- **2026 年 2 月**：首次在知乎公开发表文章讨论部分构想。
+- **2025 年 5 月**：开始对相关问题进行初步思考
+- **2025 年 10 月**：开始进行系统化整理
+- **2026 年 2 月**：首次在知乎公开发表文章讨论部分构想
 
 当前版本主要用于整理已有内容，并进行整体协调性修改。
 

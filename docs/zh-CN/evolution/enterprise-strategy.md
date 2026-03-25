@@ -1,6 +1,6 @@
 # 企业策略与技术分工
 
-上一节：[技术费用制度可能面临的外部挑战](../policy-discussion/external-challenges.md)
+[上一节：技术费用制度可能面临的外部挑战](../policy-discussion/external-challenges.md)
 
 [回到目录](../index.md)
 
@@ -252,6 +252,6 @@
 
 下一节将讨论**制度的可能演化路径。**
 
-[下一节](../evolution/institutional-evolution.md)
+[下一节：](../evolution/institutional-evolution.md)
 
 [回到目录](../index.md)

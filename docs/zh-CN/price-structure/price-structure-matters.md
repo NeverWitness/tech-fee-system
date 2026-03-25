@@ -1,6 +1,6 @@
 # 实现生活保障需要重构物价结构
 
-上一节：[基础生活品和体验升级](basic-goods-and-beyond.md)
+[上一节：基础生活品和体验升级](basic-goods-and-beyond.md)
 
 [回到目录](../index.md)
 
@@ -153,6 +153,6 @@
 
 在理解这些问题之后，下一步需要进一步讨论**技术费用在现代经济中的作用。**
 
-[技术费用的普遍存在](../technology-fee/concept.md)
+[下一节：技术费用的普遍存在](../technology-fee/concept.md)
 
 [回到目录](../index.md)

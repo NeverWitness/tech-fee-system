@@ -1,6 +1,6 @@
 # 技术费用制度面临的外部挑战
 
-[上一节：价格调整将进一步优化供给](policy-discussion/supply-distortion-question.md)
+[上一节：价格调整将进一步优化供给](../policy-discussion/supply-distortion-question.md)
 
 [回到目录](../index.md)
 

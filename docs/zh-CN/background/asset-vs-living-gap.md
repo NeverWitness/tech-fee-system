@@ -1,6 +1,6 @@
 # 生活差距比资产差距更重要
 
-上一节：[资产差距难以消除](asset-inequality.md)
+[上一节：资产差距难以消除](asset-inequality.md)
 
 [回到目录](../index.md)
 

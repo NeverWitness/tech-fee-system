@@ -45,8 +45,6 @@ jobs:
             - \usepackage{enumitem}
             - \setlist[itemize]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
             - \setlist[enumerate]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
-            - \usepackage{xcolor}
-            - \renewcommand{\hrulefill}{\leavevmode\color{white}\hrulefill}
           ---
 
           EOF
@@ -103,6 +101,10 @@ jobs:
         run: |
           sed -i 's/⚠️/[注意]/g' build/book-zh.md
           sed -i 's/⚠/[注意]/g' build/book-zh.md
+
+      - name: Replace horizontal rules with white space
+        run: |
+          sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{0.8em}/' build/book-zh.md
 
       - name: Convert markdown to PDF
         run: |

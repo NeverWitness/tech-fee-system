@@ -70,7 +70,7 @@ jobs:
             docs/zh-CN/evolution/enterprise-strategy.md \
             docs/zh-CN/evolution/institutional-evolution.md
           do
-            printf '\n\\clearpage\n\n' >> build/book-zh.md
+            printf '\n\\newpage\n\n' >> build/book-zh.md
             cat "$file" >> build/book-zh.md
           done
 

@@ -97,7 +97,7 @@ jobs:
             fi
 
             # 只处理正文文件里的分割线，不碰 title.md
-            sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{1\\baselineskip}/' "$tmp"
+            sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{2\\baselineskip}/' "$tmp"
 
             printf '\n\n\\clearpage\n\n' >> build/book-zh.md
             cat "$tmp" >> build/book-zh.md

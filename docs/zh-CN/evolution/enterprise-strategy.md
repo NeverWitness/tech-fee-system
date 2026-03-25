@@ -252,6 +252,6 @@
 
 下一节将讨论**制度的可能演化路径。**
 
-[下一节：](../evolution/institutional-evolution.md)
+[下一节：制度的可能演化路径](../evolution/institutional-evolution.md)
 
 [回到目录](../index.md)

@@ -93,6 +93,9 @@ jobs:
               sed -i -E 's/<a [^>]*>[^<]+<\/a>//g' "$tmp"
             fi
 
+            # 只处理正文文件里的分割线，不碰 title.md
+            sed -i -E '/^[[:space:]]*([-*_][[:space:]]*){3,}$/d' "$tmp"
+
             printf '\n\n\\clearpage\n\n' >> build/book-zh.md
             cat "$tmp" >> build/book-zh.md
           done
@@ -101,10 +104,6 @@ jobs:
         run: |
           sed -i 's/⚠️/[注意]/g' build/book-zh.md
           sed -i 's/⚠/[注意]/g' build/book-zh.md
-
-      - name: Replace horizontal rules with white space
-        run: |
-          sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{0.8em}/' build/book-zh.md
 
       - name: Convert markdown to PDF
         run: |

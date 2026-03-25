@@ -43,12 +43,15 @@ jobs:
             - \usepackage{xeCJK}
             - \setCJKmainfont{Noto Serif CJK SC}
             - \usepackage{enumitem}
-            - \setlist[itemize]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
+            - \setlist[itemize]{nosep}
+            - \setlist[enumerate]{nosep}
+            - \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+            - \setlength{\parskip}{0pt}
           ---
 
           EOF
 
-          cat build/title.md > build/book-zh.md
+          cp build/title.md build/book-zh.md
 
           for file in \
             docs/zh-CN/index.md \
@@ -70,22 +73,36 @@ jobs:
             docs/zh-CN/evolution/enterprise-strategy.md \
             docs/zh-CN/evolution/institutional-evolution.md
           do
-            printf '\n\\newpage\n\n' >> build/book-zh.md
-            cat "$file" >> build/book-zh.md
+            tmp="build/$(basename "$file")"
+
+            cp "$file" "$tmp"
+
+            # 删除“回到目录”整行
+            sed -i '/回到目录/d' "$tmp"
+
+            if [ "$file" = "docs/zh-CN/index.md" ]; then
+              # index.md：保留链接文字，删除链接目标
+              sed -i -E 's/\[([^\]]+)\]\([^)]+\)/\1/g' "$tmp"
+            else
+              # 其他 md：删除整个 Markdown 链接（文字和链接一起删）
+              sed -i -E 's/\[[^]]+\]\([^)]+\)//g' "$tmp"
+            fi
+
+            # 删除 HTML 链接
+            if [ "$file" = "docs/zh-CN/index.md" ]; then
+              sed -i -E 's/<a [^>]*>([^<]+)<\/a>/\1/g' "$tmp"
+            else
+              sed -i -E 's/<a [^>]*>[^<]+<\/a>//g' "$tmp"
+            fi
+
+            printf '\n\n\\clearpage\n\n' >> build/book-zh.md
+            cat "$tmp" >> build/book-zh.md
           done
 
       - name: Replace unsupported emoji
         run: |
           sed -i 's/⚠️/[注意]/g' build/book-zh.md
           sed -i 's/⚠/[注意]/g' build/book-zh.md
-
-      - name: Clean links and remove TOC backlinks
-        run: |
-          # 删除“回到目录”整行（包含可能的链接形式）
-          sed -i '/回到目录/d' build/book-zh.md
-
-          # 将 [text](url) 替换为 text
-          sed -i -E 's/\[([^\]]+)\]\([^)]+\)/\1/g' build/book-zh.md
 
       - name: Convert markdown to PDF
         run: |

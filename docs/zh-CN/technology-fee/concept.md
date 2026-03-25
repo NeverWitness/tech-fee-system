@@ -1,6 +1,6 @@
 # 技术费用的普遍存在
 
-上一节：[实现生活保障需要重构物价结构](../price-structure/price-structure-matters.md)
+[上一节：实现生活保障需要重构物价结构](../price-structure/price-structure-matters.md)
 
 [回到目录](../index.md)
 

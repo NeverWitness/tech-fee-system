@@ -90,7 +90,7 @@ jobs:
       - name: Convert markdown to PDF
         run: |
           pandoc build/book-zh.md \
-            --from markdown \
+            --from markdown+hard_line_breaks \
             --pdf-engine=xelatex \
             --standalone \
             --toc \

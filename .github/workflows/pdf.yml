@@ -43,10 +43,10 @@ jobs:
             - \usepackage{xeCJK}
             - \setCJKmainfont{Noto Serif CJK SC}
             - \usepackage{enumitem}
-            - \setlist[itemize]{nosep}
-            - \setlist[enumerate]{nosep}
-            - \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-            - \setlength{\parskip}{0pt}
+            - \setlist[itemize]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
+            - \setlist[enumerate]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
+            - \usepackage{xcolor}
+            - \renewcommand{\hrulefill}{\leavevmode\color{white}\hrulefill}
           ---
 
           EOF

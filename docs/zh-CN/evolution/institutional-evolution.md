@@ -1,6 +1,6 @@
 # 制度的可能演化路径
 
-上一节：[企业策略与技术分工](../evolution/enterprise-strategy.md)
+[上一节：企业策略与技术分工](../evolution/enterprise-strategy.md)
 
 [回到目录](../index.md)
 

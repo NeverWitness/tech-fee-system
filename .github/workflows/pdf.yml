@@ -42,6 +42,8 @@ jobs:
           header-includes:
             - \usepackage{xeCJK}
             - \setCJKmainfont{Noto Serif CJK SC}
+            - \usepackage{enumitem}
+            - \setlist[itemize]{itemsep=0.25em, topsep=0.25em, parsep=0pt, partopsep=0pt}
           ---
 
           EOF

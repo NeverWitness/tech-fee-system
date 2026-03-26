@@ -223,8 +223,8 @@
 
 因此，技术费用不仅是价格结构的一部分，也成为理解现代经济的重要概念。
 
-下一节将进一步讨论**技术层级与知识扩散**。
+下面将进一步讨论**技术层级与知识扩散**。
 
-[下一节](../technology-fee/hierarchy-and-dissemination.md)
+[下一节：技术天然形成层级而知识被人为扩散](../technology-fee/hierarchy-and-dissemination.md)
 
 [回到目录](../index.md)

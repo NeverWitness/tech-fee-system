@@ -1,7 +1,3 @@
-以下为对应的 **en-US 版本目录翻译**（保持 GitHub 文档风格与结构一致）：
-
----
-
 # Documentation Guide
 
 This page explains:

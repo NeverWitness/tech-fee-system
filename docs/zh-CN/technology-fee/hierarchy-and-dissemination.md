@@ -228,6 +228,6 @@
 
 下面将进一步讨论**技术费用的动态变化**。
 
-[下一节：技术费用永远在动态变化](technology-fee/dynamic-change.md)
+[下一节：技术费用永远在动态变化](../technology-fee/dynamic-change.md)
 
 [回到目录](../index.md)

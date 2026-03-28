@@ -1,7 +1,3 @@
-以下为对应的 **en-US 版本翻译**：
-
----
-
 # A New System Based on Technology Fees: Public Access and Licensed Use
 
 [Previous: Technology Fees Are Always Dynamically Changing](../technology-fee/dynamic-change.md)

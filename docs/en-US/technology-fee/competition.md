@@ -1,7 +1,3 @@
-以下为对应的 **en-US 版本翻译**：
-
----
-
 # Transforming Technology into Competitive Advantage Through People and Organizations
 
 [Previous: A New System Based on Technology Fees: Public Access and Licensed Use](../technology-fee/system-and-public-access.md)

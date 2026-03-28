@@ -1,7 +1,3 @@
-以下为对应的 **en-US 版本翻译**：
-
----
-
 # Technology Naturally Forms Hierarchies While Knowledge Is Artificially Disseminated
 
 [Previous: The Ubiquity of Technology Fees](../technology-fee/concept.md)

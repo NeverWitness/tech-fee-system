@@ -236,6 +236,6 @@ Therefore, understanding technology fees requires considering both:
 
 The next section will further examine **the dynamic nature of technology fees**.
 
-[Next: Technology Fees Are Always Dynamically Changing](technology-fee/dynamic-change.md)
+[Next: Technology Fees Are Always Dynamically Changing](../technology-fee/dynamic-change.md)
 
 [Back to Index](../index.md)

@@ -1,7 +1,3 @@
-以下为对应的 **en-US 版本翻译**：
-
----
-
 # The Ubiquity of Technology Fees
 
 [Previous: Why Restructuring Price Systems Is Necessary for Living Security](../price-structure/price-structure-matters.md)

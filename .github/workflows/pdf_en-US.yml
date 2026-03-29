@@ -31,10 +31,10 @@ jobs:
         run: |
           cat > build/title.md <<'EOF'
           ---
-          title: "技术费用框架"
+          title: "Technology Fee Framework"
           author: "NeverWitness"
           date: \today
-          lang: zh-CN
+          lang: en-US
           toc: true
           papersize: a4
           geometry: margin=2.2cm
@@ -52,27 +52,27 @@ jobs:
 
           EOF
 
-          cp build/title.md build/book-zh.md
+          cp build/title.md build/book-en.md
 
           for file in \
-            docs/zh-CN/index.md \
-            docs/zh-CN/overview/overview.md \
-            docs/zh-CN/background/asset-inequality.md \
-            docs/zh-CN/background/asset-vs-living-gap.md \
-            docs/zh-CN/price-structure/basic-goods-and-beyond.md \
-            docs/zh-CN/price-structure/price-structure-matters.md \
-            docs/zh-CN/technology-fee/concept.md \
-            docs/zh-CN/technology-fee/hierarchy-and-dissemination.md \
-            docs/zh-CN/technology-fee/dynamic-change.md \
-            docs/zh-CN/technology-fee/system-and-public-access.md \
-            docs/zh-CN/technology-fee/competition.md \
-            docs/zh-CN/policy-discussion/dynamic-public-dividend.md \
-            docs/zh-CN/policy-discussion/taxation-in-the-tech-era.md \
-            docs/zh-CN/policy-discussion/technology-fee-response.md \
-            docs/zh-CN/policy-discussion/supply-distortion-question.md \
-            docs/zh-CN/policy-discussion/external-challenges.md \
-            docs/zh-CN/evolution/enterprise-strategy.md \
-            docs/zh-CN/evolution/institutional-evolution.md
+            docs/en-US/index.md \
+            docs/en-US/overview/overview.md \
+            docs/en-US/background/asset-inequality.md \
+            docs/en-US/background/asset-vs-living-gap.md \
+            docs/en-US/price-structure/basic-goods-and-beyond.md \
+            docs/en-US/price-structure/price-structure-matters.md \
+            docs/en-US/technology-fee/concept.md \
+            docs/en-US/technology-fee/hierarchy-and-dissemination.md \
+            docs/en-US/technology-fee/dynamic-change.md \
+            docs/en-US/technology-fee/system-and-public-access.md \
+            docs/en-US/technology-fee/competition.md \
+            docs/en-US/policy-discussion/dynamic-public-dividend.md \
+            docs/en-US/policy-discussion/taxation-in-the-tech-era.md \
+            docs/en-US/policy-discussion/technology-fee-response.md \
+            docs/en-US/policy-discussion/supply-distortion-question.md \
+            docs/en-US/policy-discussion/external-challenges.md \
+            docs/en-US/evolution/enterprise-strategy.md \
+            docs/en-US/evolution/institutional-evolution.md
           do
             tmp="build/$(basename "$file")"
 
@@ -81,7 +81,7 @@ jobs:
             # 删除“回到目录”整行
             sed -i '/回到目录/d' "$tmp"
 
-            if [ "$file" = "docs/zh-CN/index.md" ]; then
+            if [ "$file" = "docs/en-US/index.md" ]; then
               # index.md：保留链接文字，删除链接目标
               sed -i -E 's/\[([^\]]+)\]\([^)]+\)/\1/g' "$tmp"
             else
@@ -90,7 +90,7 @@ jobs:
             fi
 
             # 删除 HTML 链接
-            if [ "$file" = "docs/zh-CN/index.md" ]; then
+            if [ "$file" = "docs/en-US/index.md" ]; then
               sed -i -E 's/<a [^>]*>([^<]+)<\/a>/\1/g' "$tmp"
             else
               sed -i -E 's/<a [^>]*>[^<]+<\/a>//g' "$tmp"

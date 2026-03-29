@@ -208,6 +208,6 @@
 
 下面将进一步讨论**制度的可能发展方向。**
 
-[下一节：企业策略与技术分工](../policy-discussion/supply-distortion-question.md)
+[下一节：企业策略与技术分工](../evolution/enterprise-strategy.md)
 
 [回到目录](../index.md)

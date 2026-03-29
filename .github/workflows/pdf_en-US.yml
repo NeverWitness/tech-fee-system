@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-zh-pdf:
+  build-en-pdf:
     runs-on: ubuntu-latest
 
     steps:
@@ -99,26 +99,26 @@ jobs:
             # 只处理正文文件里的分割线，不碰 title.md
             sed -i -E 's/^[[:space:]]*([-*_][[:space:]]*){3,}$/\\vspace{2\\baselineskip}/' "$tmp"
 
-            printf '\n\n\\clearpage\n\n' >> build/book-zh.md
-            cat "$tmp" >> build/book-zh.md
+            printf '\n\n\\clearpage\n\n' >> build/book-en.md
+            cat "$tmp" >> build/book-en.md
           done
 
       - name: Replace unsupported emoji
         run: |
-          sed -i 's/⚠️/[注意]/g' build/book-zh.md
-          sed -i 's/⚠/[注意]/g' build/book-zh.md
+          sed -i 's/⚠️/[注意]/g' build/book-en.md
+          sed -i 's/⚠/[注意]/g' build/book-en.md
 
       - name: Convert markdown to PDF
         run: |
-          pandoc build/book-zh.md \
+          pandoc build/book-en.md \
             --from markdown+hard_line_breaks \
             --pdf-engine=xelatex \
             --standalone \
             --toc \
-            -o build/tech-fee-framework-zh.pdf
+            -o build/tech-fee-framework-en.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: tech-fee-framework-zh-pdf
-          path: build/tech-fee-framework-zh.pdf
+          name: tech-fee-framework-en-pdf
+          path: build/tech-fee-framework-en.pdf

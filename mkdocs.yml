@@ -18,7 +18,6 @@ plugins:
   - i18n:
       docs_structure: folder
       reconfigure_material: true
-      default_language: zh-CN
       languages:
         - locale: zh-CN
           name: 简体中文

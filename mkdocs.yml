@@ -1,47 +1,32 @@
-site_name: 技术费用框架
-site_description: 一种解释技术时代价格结构、技术扩散与收入分配的新分析框架
+site_name: 技术费用框架 | Technology Fee Framework
+site_description: 技术费用（Technology Fee）框架：解释技术时代价格结构、技术扩散与收入分配的新模型
 site_url: https://neverwitness.github.io/tech-fee-framework/
 
 theme:
   name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
 
 plugins:
+  - search
   - i18n:
       docs_structure: folder
+      reconfigure_material: true
+      default_language: zh-CN
       languages:
         - locale: zh-CN
           name: 简体中文
           build: true
           default: true
         - locale: en-US
-          name: English (US)
+          name: English
           build: true
-
-nav:
-  - 首页: index.md
-  - 总览:
-      - 结构总览: overview/overview.md
-  - 问题背景:
-      - 资产差距难以消除: background/asset-inequality.md
-      - 生活差距比资产差距更重要: background/asset-vs-living-gap.md
-  - 价格结构:
-      - 基础生活品和体验升级: price-structure/basic-goods-and-beyond.md
-      - 实现生活保障需要重构物价结构: price-structure/price-structure-matters.md
-  - 技术费用框架:
-      - 技术费用的普遍存在: technology-fee/concept.md
-      - 技术天然形成层级而知识被人为扩散: technology-fee/hierarchy-and-dissemination.md
-      - 技术费用永远在动态变化: technology-fee/dynamic-change.md
-      - 基于技术费用的新制度：公开与授权使用: technology-fee/system-and-public-access.md
-      - 通过人和组织转化为企业竞争力: technology-fee/competition.md
-  - 制度讨论:
-      - 动态全民补助机制: policy-discussion/dynamic-public-dividend.md
-      - 传统税收体系在技术时代面临的困境: policy-discussion/taxation-in-the-tech-era.md
-      - 技术费用如何回应技术时代的税收困境: policy-discussion/technology-fee-response.md
-      - 价格调整将进一步优化供给: policy-discussion/supply-distortion-question.md
-      - 技术费用制度面临的外部挑战: policy-discussion/external-challenges.md
-  - 制度演化:
-      - 企业策略与技术分工: evolution/enterprise-strategy.md
-      - 制度的可能演化路径: evolution/institutional-evolution.md
 
 markdown_extensions:
   - toc:
@@ -49,6 +34,36 @@ markdown_extensions:
   - tables
   - admonition
   - attr_list
+  - md_in_html
 
-plugins:
-  - search
+nav:
+  - 首页: index.md
+
+  - 总览:
+      - 框架总览: overview/overview.md
+
+  - 问题背景:
+      - 资产差距难以消除: background/asset-inequality.md
+      - 生活差距比资产差距更重要: background/asset-vs-living-gap.md
+
+  - 价格结构:
+      - 基础生活品和体验升级: price-structure/basic-goods-and-beyond.md
+      - 实现生活保障需要重构物价结构: price-structure/price-structure-matters.md
+
+  - 技术费用框架:
+      - 技术费用的普遍存在: technology-fee/concept.md
+      - 技术天然形成层级而知识被人为扩散: technology-fee/hierarchy-and-dissemination.md
+      - 技术费用永远在动态变化: technology-fee/dynamic-change.md
+      - 基于技术费用的新制度：公开与授权使用: technology-fee/system-and-public-access.md
+      - 通过人和组织转化为企业竞争力: technology-fee/competition.md
+
+  - 制度讨论:
+      - 动态全民补助机制: policy-discussion/dynamic-public-dividend.md
+      - 传统税收体系在技术时代面临的困境: policy-discussion/taxation-in-the-tech-era.md
+      - 技术费用如何回应技术时代的税收困境: policy-discussion/technology-fee-response.md
+      - 价格调整是否会导致供给扭曲: policy-discussion/supply-distortion-question.md
+      - 技术费用制度面临的外部挑战: policy-discussion/external-challenges.md
+
+  - 制度演化:
+      - 企业策略与技术分工: evolution/enterprise-strategy.md
+      - 制度的可能演化路径: evolution/institutional-evolution.md

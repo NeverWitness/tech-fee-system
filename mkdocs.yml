@@ -26,6 +26,31 @@ plugins:
         - locale: en-US
           name: English
           build: true
+          nav_translations:
+            首页: Home
+            总览: Overview
+            框架总览: Framework Overview
+            问题背景: Background
+            资产差距难以消除: Why Asset Inequality Is Hard to Eliminate
+            生活差距比资产差距更重要: Living Gap Matters More Than Asset Gap
+            价格结构: Price Structure
+            基础生活品和体验升级: Basic Goods and Experience Upgrades
+            实现生活保障需要重构物价结构: Why Price Structure Must Be Reconstructed for Basic Living
+            技术费用框架: Technology Fee Framework
+            技术费用的普遍存在: The Ubiquity of Technology Fees
+            技术天然形成层级而知识被人为扩散: Technology Forms Hierarchies While Knowledge Is Artificially Disseminated
+            技术费用永远在动态变化: Technology Fees Are Always Dynamic
+            基于技术费用的新制度：公开与授权使用: A System Based on Technology Fees: Public Access and Licensed Use
+            通过人和组织转化为企业竞争力: Transformation into Competitive Advantage Through Individuals and Organizations
+            制度讨论: Policy Discussion
+            动态全民补助机制: Dynamic Public Dividend Mechanism
+            传统税收体系在技术时代面临的困境: Challenges of Traditional Taxation in the Technological Era
+            技术费用如何回应技术时代的税收困境: How Technology Fees Address Taxation Challenges in the Tech Era
+            价格调整是否会导致供给扭曲: Will Price Adjustments Distort Supply?
+            技术费用制度面临的外部挑战: External Challenges to the Technology Fee System
+            制度演化: Institutional Evolution
+            企业策略与技术分工: Enterprise Strategy and Technological Division of Labor
+            制度的可能演化路径: Possible Paths of Institutional Evolution
 
 markdown_extensions:
   - toc:

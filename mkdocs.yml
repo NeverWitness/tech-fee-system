@@ -17,7 +17,7 @@ plugins:
   - search
   - i18n:
       docs_structure: folder
-      reconfigure_material: false
+      reconfigure_material: true
       languages:
         - locale: zh-CN
           name: 简体中文

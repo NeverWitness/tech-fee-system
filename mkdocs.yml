@@ -17,7 +17,7 @@ plugins:
   - search
   - i18n:
       docs_structure: folder
-      reconfigure_material: true
+      reconfigure_material: false
       languages:
         - locale: zh-CN
           name: 简体中文
@@ -34,6 +34,10 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+
+draft_docs: |
+  zh-CN/_drafts/
+  en-US/_drafts/
 
 nav:
   - 首页: index.md

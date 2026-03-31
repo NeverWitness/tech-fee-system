@@ -2,7 +2,7 @@
 
 ⚠️ **项目状态：附录补充阶段**
 
-建议通过[文档说明](docs/zh-CN/index.md)中的目录查看。
+建议通过[最新pages版本](https://neverwitness.github.io/tech-fee-framework/)或者[最新文档说明](docs/zh-CN/index.md)中的目录查看。
 
 ---
 

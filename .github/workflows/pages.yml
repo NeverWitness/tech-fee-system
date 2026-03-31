@@ -40,12 +40,6 @@ jobs:
           mkdir -p build_docs
           rsync -a --exclude '_drafts' docs/zh-CN/ build_docs/zh/
           rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
-          # 可选：首页语言入口
-          cat > build_docs/index.md <<'EOF'
-          # Technology Fee Framework
-          - [简体中文](./)
-          - [English](./en/)
-          EOF
 
       - name: Build site
         run: mkdocs build --strict

@@ -45,6 +45,13 @@ jobs:
         run: |
           echo "BUILD_DATE=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
 
+      - name: Inject build date into homepage
+        run: |
+          DATE="$BUILD_DATE"
+          # 在第一行标题后插入一行
+          sed -i "1a\\ \\> *Build: $DATE*\\" build_docs/zh/index.md
+          sed -i "1a\\ \\> *Build: $DATE*\\" build_docs/en/index.md
+
       - name: Build site
         run: mkdocs build --strict
 

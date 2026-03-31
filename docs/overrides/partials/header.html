@@ -1,0 +1,7 @@
+{% extends "partials/header.html" %}
+
+{% block announce %}
+  <div style="text-align:center; font-size:0.8rem; padding: 0.2rem 0;">
+    Build: {{ config.extra.build_date }} ({{ config.extra.build_commit }})
+  </div>
+{% endblock %}

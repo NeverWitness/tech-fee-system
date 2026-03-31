@@ -50,12 +50,16 @@ jobs:
           DATE="$BUILD_DATE"
           # 在第一行标题后插入一行
           sed -i "1a\\
-          \\
           > *Build: $DATE*\\
+          \\
+          ---\\
+          \\
           " build_docs/zh/index.md
           sed -i "1a\\
-          \\
           > *Build: $DATE*\\
+          \\
+          ---\\
+          \\
           " build_docs/en/index.md
 
       - name: Build site

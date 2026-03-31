@@ -5,7 +5,7 @@
 This repository is currently under active construction.  
 Structure, documents, and explanations may continue to evolve as the framework is refined.
 
-It is recommended to read through [https://neverwitness.github.io/tech-fee-framework/en/](https://neverwitness.github.io/tech-fee-framework/en/). 
+It is recommended to read through [latest pages build](https://neverwitness.github.io/tech-fee-framework/en/) or []. 
 
 ---
 

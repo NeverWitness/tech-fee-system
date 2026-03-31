@@ -4,8 +4,12 @@ site_url: https://neverwitness.github.io/tech-fee-framework/
 docs_dir: build_docs
 site_dir: site
 
+extra:
+  build_date: !ENV BUILD_DATE
+
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   features:
     - navigation.tabs

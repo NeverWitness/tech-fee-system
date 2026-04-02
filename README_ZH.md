@@ -86,6 +86,8 @@
 
 ## 项目时间线
 
+预计未来将长期处于 **开放讨论阶段** 并持续修改，直至此方案获得一定程度的社会认可。
+
 该构想的形成经历了多个阶段：
 
 **2025 年 5 月**
@@ -106,16 +108,6 @@
 
 ---
 
-## 项目状态
-
-预计未来将长期处于：
-
-**开放讨论阶段**
-
-并持续修改，直至此方案获得一定程度的社会认可。
-
----
-
 ## 主要更新说明
 
 ### v0.2
@@ -129,8 +121,9 @@
 
 本项目内容采用：
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0  
-(CC BY-NC-ND 4.0)**
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
+**CC BY-NC-ND 4.0**  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 未经许可，不得修改或衍生发布。
 

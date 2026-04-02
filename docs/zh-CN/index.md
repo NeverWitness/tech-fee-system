@@ -219,6 +219,10 @@ appendix/industry/
 
 ## 许可协议
 
+本项目内容采用：
+
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+未经许可，不得修改或衍生发布。

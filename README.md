@@ -1,5 +1,7 @@
 # Technology Fee Framework
 
+**Note:** Due to ongoing development toward **v0.3**, the main body of **v0.2 will not have a full English version**. This section provides only a structured overview and partial translation.
+
 ⚠️ **Project Status: Work in Progress**
 
 This repository is currently under active construction.  
@@ -88,33 +90,21 @@ It is recommended to read through [index](docs/en/index.md). Documents will cont
 
 ## Timeline
 
-The development of this concept occurred in several stages:
+It is expected that this phase will continue for a long time in an **Open Discussion Phase**, until this plan gains a certain degree of social acceptance.
 
-**May 2025**
-
-Initial ideas and early exploration.
-
-**October 2025**
-
-Beginning of systematic organization.
-
-**February 2026**
-
-First public discussions and articles published on Zhihu.
+* **May 2025**: Initial concept
+* **October 2025**: Systematic structuring
+* **February 2026**: First public release (Zhihu)
+* **March 2026**: GitHub project established
 
 ---
 
-## Project Stage
+## Major Updates
 
-The project is currently in an **Organization and Migration Phase**.
+### v0.2 (March 30, 2026 – April 2, 2026)
 
-Future revisions may include:
-
-- structural adjustments
-- additional documents
-- theoretical refinements
-
-It is expected that this phase will continue for a long time in an **Open Discussion Phase**, until this plan gains a certain degree of social acceptance.
+* Clarified that technology fees are an **explicit expression**, not an additional component
+* Unified the conceptual framework to avoid misunderstanding as “price decomposition”
 
 ---
 
@@ -122,8 +112,9 @@ It is expected that this phase will continue for a long time in an **Open Discus
 
 This repository is licensed under:
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0  
-(CC BY-NC-ND 4.0)**
+**CC BY-NC-ND 4.0**
+
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Unauthorized modifications or derivative works are not permitted.
 

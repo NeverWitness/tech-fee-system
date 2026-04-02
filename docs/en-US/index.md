@@ -209,6 +209,10 @@ Current stage:
 
 ## License
 
+This repository is licensed under:
+
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Unauthorized modifications or derivative works are not permitted.

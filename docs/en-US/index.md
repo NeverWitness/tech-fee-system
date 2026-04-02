@@ -1,35 +1,46 @@
-# Documentation Guide
+# Technology Fee Framework
 
-This page explains:
-
-* Document structure
-* Reading order
-* Scope of each section
+> An analytical framework for understanding price structures and technological value in the technological era
 
 ---
 
-## Document Structure
+## Version Note
 
-The documentation of this project is organized into the following sections.
+Due to the ongoing development of **v0.3**,
+the main body content of **v0.2 will not be translated into English**.
+
+The English version will focus on the updated structure and content going forward.
 
 ---
 
-### 0. [Overview](overview/overview.md)
+## Project Status
+
+**Appendix Expansion Phase**
+
+A stable version is available via Pages:
+[https://neverwitness.github.io/tech-fee-framework/](https://neverwitness.github.io/tech-fee-framework/)
 
 ---
 
-### I. Background
+## Table of Contents
+
+### 0. Overview
+
+* `overview/overview.md`
+
+---
+
+### I. Problem Background
 
 ```
 background/
 ```
 
-This section introduces the real-world background of the problem, including:
+* Asset inequality is difficult to eliminate
+  `background/asset-inequality.md`
 
-* [Asset Inequality Is Hard to Eliminate](background/asset-inequality.md)
-* [The Living Gap Matters More Than Asset Inequality](background/asset-vs-living-gap.md)
-
-This section serves as the starting point for the entire discussion.
+* Living gap is more important than asset gap
+  `background/asset-vs-living-gap.md`
 
 ---
 
@@ -39,28 +50,34 @@ This section serves as the starting point for the entire discussion.
 price-structure/
 ```
 
-This section examines pricing structures in the modern economy, including:
+* Basic goods vs. experience upgrades
+  `price-structure/basic-goods-and-beyond.md`
 
-* [Basic Goods and Experience Upgrades](price-structure/basic-goods-and-beyond.md)
-* [Why Restructuring Price Systems Is Necessary for Living Security](price-structure/price-structure-matters.md)
-
-This section provides the economic foundation for subsequent discussions.
+* Why restructuring price structures is necessary for living security
+  `price-structure/price-structure-matters.md`
 
 ---
 
-### III. Technology Fee Framework
+### III. Technology Fee Framework (Core Section)
 
 ```
 technology-fee/
 ```
 
-This is the core part of the project, focusing on:
+* The ubiquity of technology fees
+  `technology-fee/concept.md`
 
-* [The Ubiquity of Technology Fees](technology-fee/concept.md)
-* [Technology Naturally Forms Hierarchies While Knowledge Is Artificially Disseminated](technology-fee/hierarchy-and-dissemination.md)
-* [Technology Fees Are Always Dynamically Changing](technology-fee/dynamic-change.md)
-* [A New System Based on Technology Fees: Public Access and Licensed Use](technology-fee/system-and-public-access.md)
-* [Transforming Technology into Competitive Advantage Through People and Organizations](technology-fee/competition.md)
+* Hierarchical nature of technology and artificial dissemination of knowledge
+  `technology-fee/hierarchy-and-dissemination.md`
+
+* Technology fees are always dynamic
+  `technology-fee/dynamic-change.md`
+
+* A new system based on technology fees: openness and licensed use
+  `technology-fee/system-and-public-access.md`
+
+* Transformation into firm competitiveness through people and organizations
+  `technology-fee/competition.md`
 
 ---
 
@@ -70,13 +87,20 @@ This is the core part of the project, focusing on:
 policy-discussion/
 ```
 
-This section explores institutional issues that may arise in the technological era, including:
+* Dynamic public dividend mechanism
+  `policy-discussion/dynamic-public-dividend.md`
 
-* [Dynamic Universal Dividend Mechanism](policy-discussion/dynamic-public-dividend.md)
-* [Challenges to Traditional Tax Systems in the Technological Era](policy-discussion/taxation-in-the-tech-era.md)
-* [How Technology Fees Address Taxation Challenges in the Tech Era](policy-discussion/technology-fee-response.md)
-* [Price Adjustments and Supply Optimization](policy-discussion/supply-distortion-question.md)
-* [External Challenges to the Technology Fee System](policy-discussion/external-challenges.md)
+* Challenges faced by traditional taxation in the technological era
+  `policy-discussion/taxation-in-the-tech-era.md`
+
+* How technology fees respond to taxation challenges
+  `policy-discussion/technology-fee-response.md`
+
+* Price adjustment and supply optimization
+  `policy-discussion/supply-distortion-question.md`
+
+* External challenges to the technology fee system
+  `policy-discussion/external-challenges.md`
 
 ---
 
@@ -86,10 +110,11 @@ This section explores institutional issues that may arise in the technological e
 evolution/
 ```
 
-This section discusses possible real-world evolution paths of the system, such as:
+* Firm strategy and technological division of labor
+  `evolution/enterprise-strategy.md`
 
-* [Enterprise Strategy and Division of Technological Labor](evolution/enterprise-strategy.md)
-* [Possible Paths of Institutional Evolution](evolution/institutional-evolution.md)
+* Possible paths of institutional evolution
+  `evolution/institutional-evolution.md`
 
 ---
 
@@ -99,38 +124,28 @@ This section discusses possible real-world evolution paths of the system, such a
 appendix/industry/
 ```
 
-This section provides a high-level overview of:
+Focus:
 
-1. Differences in the proportion of technology fees across industries, such as:
+* Differences in technology fee structures across industries
+* Illustrative cases across sectors:
 
-* Agriculture
-* Basic industry
-* Traditional services
-* Digital industries
-
-2. Several industry case examples illustrating how technology fees manifest in different sectors, including:
-
-* Agricultural products
-* High-end agricultural products
-* Basic industrial products
-* High-end industrial products
-* Traditional services
-* 2C digital services
-* 2B digital services
-
-The appendix focuses on structural overview and illustrative examples, rather than comprehensive industry research.
+  * Agriculture
+  * Basic industry
+  * Traditional services
+  * High-end manufacturing
+  * Digital industries (2C / 2B)
 
 ---
 
-### VII. Appendix II: Compatibility of Existing Systems with Explicit Technology Fees (Planned)
+### VII. Appendix II (Planned)
+
+* Compatibility of existing institutions with explicit technology fees
 
 ---
 
 ## Recommended Reading Order
 
-It is recommended to read the documentation in the following order:
-
-1. Background
+1. Problem Background
 2. Price Structure
 3. Technology Fee Framework
 4. Policy Discussion
@@ -139,41 +154,44 @@ It is recommended to read the documentation in the following order:
 
 ---
 
-## Scope of the Documentation
+## Scope of the Document
 
-At the current stage, this project focuses on:
+This project currently focuses on:
 
-**The role of technology fees in modern economic structures.**
+* The role of technology fees in modern economic structures
 
-Key areas covered include:
+Key components:
 
 * Conceptual clarification
 * Structural analysis
 * Institutional discussion
-* Industry case studies
+* Industry examples
 
-This version does not aim to provide a complete policy solution, but rather a structural framework for discussion.
+This version **does not aim to provide a complete policy proposal**,
+but rather a **framework for analysis and discussion**.
 
 ---
 
 ## Project Timeline
 
-The development of ideas in this project roughly follows:
-
-* **May 2025**: Initial exploration of related issues
-* **October 2025**: Beginning of systematic structuring
-* **February 2026**: First public publication of partial ideas on Zhihu
-
-The current version focuses on organizing existing content and improving overall coherence.
+* **May 2025** — Initial concept formation
+* **October 2025** — Systematic structuring
+* **February 2026** — First public discussion (Zhihu)
+* **March 2026** — GitHub project launched
 
 ---
 
-## Document Updates
+## Update Notes
 
-As research and discussion progress, the documentation may:
+### v0.2 (2026-03-30 to 2026-04-02)
 
-* Add new sections
-* Adjust structure
-* Include additional case studies
+* Clarified that technology fees are **explicit representations**, not new components
+* Unified conceptual framing to avoid “price decomposition” misunderstandings
 
-Therefore, the structure of the documentation may evolve over time.
+---
+
+## License
+
+**CC BY-NC-ND 4.0**
+
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)

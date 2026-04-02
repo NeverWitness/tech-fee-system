@@ -1,7 +1,3 @@
-Below is the **English (en-US) version** of your provided latest directory content, with the required note about v0.3 placed at the beginning.
-
----
-
 # Technology Fee Framework
 
 > An analytical framework for understanding price structures and technological value in the technological era

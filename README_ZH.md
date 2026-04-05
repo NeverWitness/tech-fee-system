@@ -126,5 +126,6 @@
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 未经许可，不得修改或衍生发布。
+如需改编、基于本作品创作或用作商业用途，请从github联系作者获得书面授权。
 
 详情见 LICENSE 文件。

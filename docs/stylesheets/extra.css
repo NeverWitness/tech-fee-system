@@ -1,5 +1,11 @@
-.md-header__option .md-select__inner::before {
-  content: "中 / EN ";
+html[lang="zh"] .md-header__option > .md-select > button::after {
+  content: " 中 / EN";
+  font-size: 0.9rem;
+  margin-right: 4px;
+}
+
+html[lang="en"] .md-header__option > .md-select > button::after {
+  content: " EN / 中";
   font-size: 0.9rem;
   margin-right: 4px;
 }

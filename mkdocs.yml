@@ -61,6 +61,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+extra_css:
+  - stylesheets/extra.css
+
 draft_docs: |
   zh-CN/_drafts/
   en-US/_drafts/

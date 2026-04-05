@@ -40,7 +40,7 @@ jobs:
           mkdir -p build_docs
           rsync -a --exclude '_drafts' docs/zh-CN/ build_docs/zh/
           rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
-          rsync -a docs/stylesheets build_docs/stylesheets
+          rsync -a docs/stylesheets build_docs
 
       - name: Set build date
         run: |

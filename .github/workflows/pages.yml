@@ -48,19 +48,37 @@ jobs:
       - name: Inject build date into homepage
         run: |
           DATE="$BUILD_DATE"
-          # 在第一行标题后插入一行
-          sed -i "1a\\
-> *Build: $DATE*\\
-\\
----\\
-          \\
-          " build_docs/zh/index.md
-          sed -i "1a\\
-          > *Build: $DATE*\\
-          \\
-          ---\\
-          \\
-          " build_docs/en/index.md
+
+          # 中文首页
+          {
+            echo "---"
+            echo "title: 技术费用框架"
+            echo "description: 技术费用框架：解释技术时代价格结构、技术扩散与收入分配的新模型"
+            echo "---"
+            echo ""
+            echo "> *Build: $DATE*"
+            echo ""
+            echo "---"
+            echo ""
+            cat build_docs/zh/index.md
+          } > /tmp/zh_index.md
+          mv /tmp/zh_index.md build_docs/zh/index.md
+
+          # 英文首页
+          {
+            echo "---"
+            echo "title: Technology Fee Framework"
+            echo "description: A framework explaining price structure, technology diffusion, and income distribution in the technological era"
+            echo "---"
+            echo ""
+            echo "> *Build: $DATE*"
+            echo ""
+            echo "---"
+            echo ""
+            cat build_docs/en/index.md
+          } > /tmp/en_index.md
+
+          mv /tmp/en_index.md build_docs/en/index.md
 
       - name: Build site
         run: mkdocs build --strict

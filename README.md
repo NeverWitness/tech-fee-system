@@ -117,5 +117,6 @@ This repository is licensed under:
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Unauthorized modifications or derivative works are not permitted.
+If you wish to modify this work or use it commercially, please contact the author from github for additional permission.
 
 See the LICENSE file for details.

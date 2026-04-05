@@ -1,0 +1,5 @@
+.md-header__option .md-select__inner::before {
+  content: "中 / EN ";
+  font-size: 0.9rem;
+  margin-right: 4px;
+}

@@ -1,5 +1,4 @@
-site_name: 技术费用框架 Technology Fee Framework | 语言切换 > Language Switch > >
-site_description: 技术费用（Technology Fee）框架：解释技术时代价格结构、技术扩散与收入分配的新模型
+site_name: TFF
 site_url: https://neverwitness.github.io/tech-fee-framework/
 docs_dir: build_docs
 site_dir: site

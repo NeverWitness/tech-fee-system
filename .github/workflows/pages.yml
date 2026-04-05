@@ -42,19 +42,19 @@ jobs:
           rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
 
           # Inject SEO front matter into homepage
-          sed -i '1i\\
+          sed -i "1i\\
           ---\\
           title: 技术费用框架\\
           description: 技术费用框架：解释技术时代价格结构、技术扩散与收入分配的新模型\\
           ---\\
-          ' build_docs/zh/index.md
+          " build_docs/zh/index.md
 
-          sed -i '1i\\
+          sed -i "1i\\
           ---\\
           title: Technology Fee Framework\\
           description: A framework explaining price structure, technology diffusion, and income distribution in the technological era\\
           ---\\
-          ' build_docs/en/index.md
+          " build_docs/en/index.md
 
       - name: Set build date
         run: |

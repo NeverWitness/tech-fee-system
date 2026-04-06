@@ -121,5 +121,5 @@ This project is licensed under the following terms:
 * Modification and derivative works are prohibited
 
 For adaptations or derivative use, please contact the author via [email](mailto:hutu2025@proton.me) to obtain written permission.  
-For discussion with the author, please use the Discussions feature on [GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/).  
+For discussion with the author, please use the Discussions feature on [GitHub](https://github.com/NeverWitness/tech-fee-framework/).  
 See the LICENSE file for details.

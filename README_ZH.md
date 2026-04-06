@@ -119,14 +119,16 @@
 
 ## 许可协议
 
-本项目内容采用：
+本项目采用以下许可协议：
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-未经许可，不得修改或衍生发布。  
-如需改编、基于本作品创作，请通过邮箱[hutu2025@proton.me](mailto:hutu2025@proton.me)联系作者获得书面授权。  
-如希望和作者进行讨论，请使用[GitHub](https://github.com/NeverWitness/tech-fee-framework/) 的Discussions功能。
+* 允许传播与引用
+* 禁止商业使用
+* 禁止修改或衍生
 
-详情见 LICENSE 文件。
+如需改编、基于本作品创作，请通过[邮箱](mailto:hutu2025@proton.me)联系作者获得书面授权。  
+如希望和作者进行讨论，请使用[GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/) 的Discussions功能。  
+详细信息见 LICENSE 文件。

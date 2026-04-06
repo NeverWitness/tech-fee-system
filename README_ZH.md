@@ -125,8 +125,8 @@
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-未经许可，不得修改或衍生发布。
-如需改编、基于本作品创作，请通过邮箱[hutu2025@proton.me](mailto:hutu2025@proton.me)联系作者获得书面授权。
+未经许可，不得修改或衍生发布。  
+如需改编、基于本作品创作，请通过邮箱[hutu2025@proton.me](mailto:hutu2025@proton.me)联系作者获得书面授权。  
 如希望和作者进行讨论，请使用[GitHub](https://github.com/NeverWitness/tech-fee-framework/) 的Discussions功能。
 
 详情见 LICENSE 文件。

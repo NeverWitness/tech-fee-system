@@ -110,14 +110,16 @@ It is expected that this phase will continue for a long time in an **Open Discus
 
 ## License
 
-This repository is licensed under:
+This project is licensed under the following terms:
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-Unauthorized modifications or derivative works are not permitted.  
-If you wish to modify this work, please contact the author via email [hutu2025@proton.me](mailto:hutu2025@proton.me) for additional permission.  
-If you wish to discuss with the author, please use [GitHub](https://github.com/NeverWitness/tech-fee-framework/) Discussions.  
+* Redistribution and citation are permitted
+* Commercial use is prohibited
+* Modification and derivative works are prohibited
 
+For adaptations or derivative use, please contact the author via [email](mailto:hutu2025@proton.me) to obtain written permission.  
+For discussion with the author, please use the Discussions feature on [GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/).  
 See the LICENSE file for details.

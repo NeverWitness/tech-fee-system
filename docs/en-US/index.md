@@ -215,4 +215,6 @@ This repository is licensed under:
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-Unauthorized modifications or derivative works are not permitted.
+Unauthorized modifications or derivative works are not permitted.  
+If you wish to modify this work, please contact the author via email [hutu2025@proton.me](mailto:hutu2025@proton.me) for additional permission.  
+If you wish to discuss with the author, please use [GitHub](https://github.com/NeverWitness/tech-fee-framework/) Discussions.

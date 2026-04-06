@@ -118,7 +118,7 @@ This repository is licensed under:
 
 Unauthorized modifications or derivative works are not permitted.  
 If you wish to modify this work, please contact the author via email [hutu2025@proton.me](mailto:hutu2025@proton.me) for additional permission.  
-If you wish to discuss with the author, please use GitHub Discussions.  
-[https://github.com/NeverWitness/tech-fee-framework/](https://github.com/NeverWitness/tech-fee-framework/)
+If you wish to discuss with the author, please use [GitHub](https://github.com/NeverWitness/tech-fee-framework/) Discussions.  
+
 
 See the LICENSE file for details.

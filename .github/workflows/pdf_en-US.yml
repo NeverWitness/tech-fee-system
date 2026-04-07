@@ -13,6 +13,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Read version
+        run: |
+          VERSION=$(tr -d '[:space:]' < version)
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "PDF_NAME=v${VERSION}-tech-fee-framework-en-US.pdf" >> "$GITHUB_ENV"
+          echo "ARTIFACT_NAME=v${VERSION}-tech-fee-framework-en-US-pdf" >> "$GITHUB_ENV"
+          echo "DOC_DATE=v${VERSION} - $(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
+
       - name: Install Pandoc and XeLaTeX
         run: |
           sudo apt-get update
@@ -29,11 +37,11 @@ jobs:
 
       - name: Generate combined markdown
         run: |
-          cat > build/title.md <<'EOF'
+          cat > build/title.md <<EOF
           ---
-          title: "Technology Fee Framework"
+          title: "Technology Fee Framework v${VERSION}"
           author: "NeverWitness"
-          date: \today
+          date: "${DOC_DATE}"
           lang: en-US
           toc: true
           papersize: a4
@@ -115,10 +123,10 @@ jobs:
             --pdf-engine=xelatex \
             --standalone \
             --toc \
-            -o build/tech-fee-framework-en.pdf
+            -o "build/${PDF_NAME}"
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: tech-fee-framework-en-pdf
-          path: build/tech-fee-framework-en.pdf
+          name: ${{ env.ARTIFACT_NAME }}
+          path: build/${{ env.PDF_NAME }}

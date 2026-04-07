@@ -38,9 +38,9 @@ jobs:
 
       - name: Generate combined markdown
         run: |
-          cat > build/title.md <<'EOF'
+          cat > build/title.md <<EOF
           ---
-          title: "技术费用框架"
+          title: "技术费用框架 v${VERSION}"
           author: "NeverWitness"
           date: "${DOC_DATE}"
           lang: zh-CN

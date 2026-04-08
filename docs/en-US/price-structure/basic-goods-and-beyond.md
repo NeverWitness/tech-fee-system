@@ -1,54 +1,58 @@
 # Basic Goods and Experience Upgrades
 
-[Previous: The Living Gap Matters More Than Asset Inequality](../background/asset-vs-living-gap.md)
+[Previous: Living Inequality Matters More Than Asset Inequality](../background/asset-vs-living-gap.md)
 
 [Back to Index](../index.md)
 
-When discussing living disparities, a key question is:
+When discussing living inequality, a key question arises:
 
-**Which goods or services qualify as essential goods.**
+**Which goods or services qualify as basic goods.**
 
-Without a clear definition of essential goods, it is difficult to analyze living security, price structures, or disparities in living standards.
-At the same time, in modern economies, many goods do not merely satisfy basic needs but also incorporate significant **experience enhancements**.
+Without a clear definition of basic goods, it becomes difficult to analyze living security, price structures, and living inequality.
+At the same time, in modern economies, many goods do not merely satisfy basic needs but also incorporate substantial **experience-level enhancements**.
 
 Therefore, understanding modern price structures requires distinguishing between two layers:
 
-* **Essential goods**
+* **Basic goods**
 * **Experience upgrades**
 
 ---
 
-## I. Definition of Essential Goods
+## I. The Meaning of Basic Goods
 
-Essential goods refer to goods or services necessary to maintain basic living capabilities in modern society.
+Basic goods refer to goods or services necessary to maintain basic living capability in modern society.
 These goods typically have the following characteristics:
 
 * Required on a continuous basis
-* Foundational to quality of life
+* Foundational impact on quality of life
 * Important for participation in society
 
-In modern contexts, essential goods generally include the following categories:
+In modern society, basic goods typically include the following:
 
 ### Food
 
-A stable food supply is one of the most fundamental conditions of life.
-In modern societies, this includes not only sufficient caloric intake, but also:
+A stable food supply is one of the most fundamental living conditions.
+In modern contexts, basic food supply does not only mean sufficient caloric intake, but also:
 
-* Basic nutritional balance
-* Food safety
+* Basic nutritional structure
+* Basic food safety
 
-Thus, food is typically considered the most representative essential good.
+Therefore, food is often considered the most typical form of basic goods.
+
+---
 
 ### Basic Housing
 
-Housing is not only a place of residence, but also a foundation of personal stability.
+Housing is not only a living space but also a foundation for personal stability.
 Basic housing generally implies:
 
 * A safe living environment
-* Basic facilities
-* Affordable long-term cost
+* Basic living facilities
+* Long-term affordability
 
-Housing conditions often have a significant impact on living disparities.
+Housing conditions often have a significant impact on living inequality.
+
+---
 
 ### Basic Healthcare
 
@@ -56,81 +60,91 @@ Basic healthcare services are essential for maintaining health.
 In modern societies, this typically includes:
 
 * Treatment of common illnesses
-* Access to essential medications
+* Essential medications
 * Basic public health services
 
-Large disparities in healthcare access can quickly widen differences in living conditions.
+Large disparities in healthcare access can quickly amplify differences in living conditions.
+
+---
 
 ### Basic Education
 
-Education is no longer only a matter of cultural development, but directly affects individual opportunities.
+In modern societies, education is no longer only about cultural development, but directly affects individual opportunities.
 Basic education typically includes:
 
-* Fundamental knowledge
+* Foundational knowledge
 * Basic vocational skills
-* Core digital literacy
+* Basic digital literacy
 
-Differences in educational access often expand inequality over time.
+Differences in educational resources often expand inequality over time.
+
+---
 
 ### Basic Communication
 
-In an information-based society, communication capability is essential for participation.
+In an information society, communication capacity has become essential for social participation.
 Basic communication typically includes:
 
-* Internet connectivity
-* Access to information services
-* Use of basic digital tools
+* Internet access
+* Basic information services
+* Use of essential digital tools
 
-Lack of communication access may directly limit opportunities.
+Lack of communication access may directly limit access to information and opportunities.
+
+---
 
 ### Basic Transportation
 
-Transportation affects an individual’s ability to access:
+Transportation affects an individual’s:
 
-* Employment opportunities
-* Education
+* Access to employment
+* Access to education
 * Social participation
 
-Thus, basic transportation services are an important component of modern life.
+Therefore, basic transportation is also an important component of modern life.
+
+---
 
 ### Basic Cultural and Entertainment Participation
 
-In modern societies, cultural and entertainment activities are not merely consumption, but also socially meaningful. Examples include:
+In modern societies, cultural and entertainment activities are not merely consumption, but also have social significance.
+Examples include:
 
-* Access to cultural activities
-* Basic entertainment content
+* Basic cultural activities
+* Access to basic entertainment content
 * Public cultural spaces
 
-These contribute to social participation and psychological well-being.
+These contribute to social inclusion and psychological well-being.
 
 ---
 
 ## II. Experience Upgrades
 
-Once essential needs are met, goods and services often provide **enhanced experiences**.
-These upgrades typically manifest as:
+After basic needs are met, goods and services often provide **experience-level enhancements**.
+These upgrades typically involve:
 
 * Higher quality
 * Greater efficiency
-* Improved design
-* Expanded functionality
+* Better design
+* More advanced functionality
 
-Experience upgrades are not necessary for survival, but they significantly improve quality of life. Examples include:
+Experience upgrades are not necessary for survival but can significantly improve quality of life.
+Examples include:
 
-* Larger or more comfortable housing
+* Larger living spaces
 * Premium healthcare services
 * Expanded educational resources
-* Higher-quality cultural and entertainment options
+* Higher-quality cultural and entertainment experiences
 
 These upgrades form layered consumption structures.
 
 ---
 
-## III. Hierarchy of Experience Upgrades
+## III. The Hierarchy of Experience Upgrades
 
-Experience upgrades typically exhibit a clear hierarchical structure. For example:
+Experience upgrades typically exhibit a clear hierarchical structure.
 
-In housing:
+For example, in housing:
 
 * Basic housing
 * More comfortable housing
@@ -140,25 +154,37 @@ In consumer electronics:
 
 * Basic functionality
 * Higher performance
-* Premium design and features
+* Premium design and advanced features
 
-This layered structure allows different income groups to choose different tiers within the same industry.
+This layered structure allows different income groups to choose different levels of products within the same industry.
 
 ---
 
-## IV. Essential Goods and Price Structure
+## IV. Basic Goods and Price Structure
 
-Distinguishing between essential goods and experience upgrades is critical for understanding price structures.
-If essential goods are priced too high, then even with abundant upgrade options, living disparities may still widen.
+Distinguishing between basic goods and experience upgrades is essential for understanding price structures.
 
-Conversely, if essential goods remain affordable:
+If the prices of basic goods are too high, living inequality may expand even if a wide range of upgraded products exists.
+Conversely, if basic goods remain relatively affordable:
 
 * Basic living conditions can be secured
-* Differences across income groups can be expressed through experience upgrades
+* Differences across income groups can be expressed at the level of experience upgrades
 
-In such a structure, inequality is primarily reflected at the:
+Under such a structure, inequality primarily exists at the:
 
-**experience level rather than the survival level.**
+**Experience level, rather than the survival level.**
+
+It is also important to note:
+In modern economies, the price differences between basic goods and upgraded products do not arise solely from differences in resource consumption, but often from differences in technological systems.
+
+That is:
+
+* In some basic goods, technological factors have already diffused widely, and their value is no longer explicitly reflected
+* In upgraded products, technological value often remains embedded in price premiums or profits
+
+Thus, price structures already implicitly contain:
+
+**A distribution of technological value across different layers, though not yet explicitly defined.**
 
 ---
 
@@ -167,8 +193,8 @@ In such a structure, inequality is primarily reflected at the:
 Technological progress often first appears in high-end products.
 As technology diffuses:
 
-* New technologies enter mainstream products
-* Former premium features become standard
+* New technologies gradually enter mainstream products
+* Previously upgraded features become basic functions
 
 Examples include:
 
@@ -176,35 +202,48 @@ Examples include:
 * Internet communication
 * Digital services
 
-Many features that were once premium experiences gradually become basic capabilities.
-This process continuously reshapes the boundary of essential goods.
+Many features that were once premium experiences eventually become basic capabilities.
+This process continuously reshapes the boundary of basic goods.
 
 ---
 
-## VI. The Dynamic Nature of Essential Goods
+## VI. The Dynamic Nature of Basic Goods
 
-Essential goods are not fixed.
-As society develops, some services that were once considered upgrades may become essential. Examples include:
+Basic goods are not fixed.
+As society evolves, some services that were once considered upgrades may gradually become essential.
+Examples include:
 
 * Internet access
 * Digital information services
 * Basic cultural participation
 
-Thus, the scope of essential goods evolves alongside technological and social development.
+Therefore, the scope of basic goods changes over time alongside technological progress and social development.
 
 ---
 
 ## VII. Summary
 
-Distinguishing between essential goods and experience upgrades is a key prerequisite for understanding modern price structures.
+Distinguishing between basic goods and experience upgrades is a prerequisite for understanding modern price structures.
 
-* Essential goods determine the **baseline level of living security**
-* Experience upgrades create a **layered consumption structure**
+Basic goods determine the **baseline level of living security**.
+Experience upgrades create a **layered consumption structure**.
 
-Within this framework, inequality can be expressed primarily at the **experience level**, rather than at the **survival level**.
+Within this structure, inequality can primarily exist at the **experience level**, rather than the **survival level**.
 
-The next section will examine **why restructuring price systems is necessary to ensure living security**.
+It is also important to recognize:
+This layered structure is not only a matter of consumption differences, but also reflects how technological value is distributed across product layers.
 
-[Next: Why Restructuring Price Systems Is Necessary for Living Security](price-structure-matters.md)
+* In basic goods, technology has largely diffused, and its value is no longer expressed through explicit premiums
+* In upgraded products, technological value remains concentrated in price premiums or profits
+
+Therefore:
+
+**Price structures already contain a layered distribution of technological value, though it has not yet been explicitly articulated.**
+
+The next section will further examine:
+
+**Why achieving living security requires restructuring price systems.**
+
+[Next: Why Restructuring Price Systems Is Necessary](../price-structure/price-structure-matters.md)
 
 [Back to Index](../index.md)

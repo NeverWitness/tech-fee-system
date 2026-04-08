@@ -15,10 +15,10 @@ jobs:
 
       - name: Read version
         run: |
-          VERSION=$(tr -d '[:space:]' < version)
+          VERSION=$(tr -d '[:space:]' < version_en_US)
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
-          echo "PDF_NAME=v${VERSION}-tech-fee-framework-en-US.pdf" >> "$GITHUB_ENV"
-          echo "ARTIFACT_NAME=v${VERSION}-tech-fee-framework-en-US-pdf" >> "$GITHUB_ENV"
+          echo "PDF_NAME=tech-fee-framework-en-US-v${VERSION}.pdf" >> "$GITHUB_ENV"
+          echo "ARTIFACT_NAME=tech-fee-framework-en-US-v${VERSION}-pdf" >> "$GITHUB_ENV"
           echo "DOC_DATE=v${VERSION} - $(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
 
       - name: Install Pandoc and XeLaTeX

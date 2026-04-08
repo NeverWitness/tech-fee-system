@@ -204,7 +204,7 @@ evolution/
 ```
 
 * [Changes in enterprise strategy and technological division of labor](evolution/enterprise-strategy.md)
-* [Possible manifestations of structural evolution](evolution/institutional-evolution.md)
+* [Possible Directions of Structural Evolution](evolution/institutional-evolution.md)
 
 ---
 

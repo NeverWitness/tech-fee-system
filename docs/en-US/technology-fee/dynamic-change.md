@@ -1,45 +1,58 @@
 # Technology Fees Are Always Dynamically Changing
 
-[Previous: Technology Naturally Forms Hierarchies While Knowledge Is Artificially Disseminated](../technology-fee/hierarchy-and-dissemination.md)
+[Previous: Technology Forms Hierarchies While Knowledge Is Artificially Disseminated](../technology-fee/hierarchy-and-dissemination.md)
 
 [Back to Index](../index.md)
 
-Previous sections established that:
+As discussed previously:
 
-* Technology fees are pervasive in modern economies
-* Technological systems naturally form hierarchies, while knowledge continuously diffuses
+* Technology Fees are pervasive in modern economies
+* Technological systems naturally form hierarchies, while knowledge continues to diffuse
 
-Based on this, a further conclusion can be drawn:
+Based on this, a further observation can be made:
 
-**Technology fees are not static, but are always in dynamic flux.**
+**Technology Fees are not static, but continuously change across time and conditions.**
 
-Understanding this is fundamental for analyzing price structures, industrial structures, and institutional arrangements.
+It should be clarified:
 
----
-
-## I. The Time Dimension of Technology Fees
-
-Technology fees are inherently linked to time.
-For any given technology, its economic value typically follows a progression:
-
-1. Emergence
-2. Diffusion
-3. Maturity
-4. Replacement
-
-At each stage, the level of technology fees differs.
-
-Thus, technology fees are not fixed values, but rather:
-
-**structural variables that evolve over time.**
+**This section does not construct a predictive model of Technology Fees, but describes their observable patterns of change.**
 
 ---
 
-## II. Typical Evolution Path of Technology Fees
+## I. The Temporal Dimension of Technology Fees
 
-In general, technology fees tend to follow a trajectory from high to low.
+Technology Fees are closely related to time, but this relationship is not merely numerical.
+More precisely:
 
-### 1. Early Stage: High Technology Fees
+**The way a given technology appears within price structures changes over time.**
+
+A common process can be described as:
+
+1. Emergence of a technology
+2. Diffusion of the technology
+3. Maturation of the technology
+4. Replacement by new technologies
+
+At different stages:
+
+* The concentration of technological value differs
+* The degree to which Technology Fees are explicitly identifiable also differs
+
+Therefore, Technology Fees should not be understood as fixed quantities, but rather as:
+
+**A changing state of identification within price structures over time.**
+
+---
+
+## II. Common Patterns of Change in Technology Fees
+
+In many cases, a typical pattern can be observed, but it should be emphasized:
+
+**This is not a deterministic path, but a common tendency.**
+
+---
+
+### 1. Early Stage: Concentrated and More Explicit Value
 
 When a technology first emerges:
 
@@ -47,67 +60,59 @@ When a technology first emerges:
 * It is difficult to understand and apply
 * Alternatives are limited
 
-This stage is characterized by:
+In this stage:
 
-* High technology fees
-* Strong technological advantage
-
-This corresponds to the leading phase of a technology.
+* Technological value is more concentrated
+* It is more likely to appear explicitly in prices
 
 ---
 
-### 2. Diffusion Stage: Declining Technology Fees
+### 2. Diffusion Stage: Gradual Dispersion of Value
 
-Over time:
+As time progresses:
 
-* More actors understand the technology
-* Documentation and experience accumulate
-* Applications become standardized
-
-As a result:
-
-* Barriers to use decrease
-* Technology fees begin to decline
-
-This stage corresponds to the diffusion process.
-
----
-
-### 3. Maturity Stage: Near-Zero Technology Fees
-
-When a technology becomes fully widespread:
-
-* It becomes a basic capability
-* Nearly all relevant actors can use it
-
-At this point:
-
-* Technology fees may become very low
-* The technology is no longer a primary source of differentiation
-
-It effectively becomes:
-
-**a baseline production condition.**
-
----
-
-### 4. Replacement Stage: Decline of Legacy Technologies
-
-With the emergence of new technologies:
-
-* Older technologies are gradually replaced
-* Their value declines
+* More actors gain access to the technology
+* Experience and application methods accumulate
+* Usage becomes more standardized
 
 At this stage:
 
-* Technology fees for older technologies may approach zero
-* New technologies begin to generate new technology fees
+* Technological value becomes more dispersed
+* Its presence in price is not always explicit
+
+---
+
+### 3. Maturity Stage: Technology Becomes a Basic Condition
+
+When a technology becomes widespread:
+
+* It turns into a general capability
+* It is no longer a primary source of differentiation
+
+In this case:
+
+* Technological value still exists
+* But it is no longer separately identified
+
+---
+
+### 4. Replacement Stage: Structural Change in Technology
+
+As new technologies emerge:
+
+* The importance of previous technologies declines
+* New technologies begin to generate new sources of value
+
+At this stage:
+
+* The value associated with older technologies may no longer be identified
+* New Technology Fees may emerge
 
 ---
 
 ## III. Differences Across Industries
 
-The dynamic evolution of technology fees varies across industries.
+The patterns of change in Technology Fees vary across industries.
 
 ### 1. Mature Industries
 
@@ -116,25 +121,25 @@ Examples include:
 * Agriculture
 * Basic industry
 
-In these sectors:
+In these industries:
 
-* Technologies are widely diffused
-* Technology fees are low
-* Changes occur slowly
+* Technology is already widely diffused
+* Technological value is highly dispersed
+* It rarely appears as a distinct component in prices
 
 ---
 
-### 2. High-Tech Industries
+### 2. High-Technology Industries
 
 Examples include:
 
-* Electronics manufacturing
-* Precision industries
+* Precision manufacturing
+* Electronics
 
-In these sectors:
+In these industries:
 
-* Technological change is rapid
-* Technology fees vary significantly over time
+* Technological updates are frequent
+* The evolution of technological value across stages is more pronounced
 
 ---
 
@@ -145,112 +150,113 @@ Examples include:
 * Software
 * Platform services
 
-In these sectors:
+In these industries:
 
-* Technological iteration is extremely fast
-* Technology fees change frequently
-
-Thus, the dynamics of technology fees differ substantially across industries.
+* Technological iteration is rapid
+* The way technological value appears in prices changes frequently
 
 ---
 
 ## IV. Technology Fees and Competitive Structure
 
-Changes in technology fees directly affect competitive structures.
+Changes in technological value affect how capabilities are distributed in markets.
 
-When technology fees are high:
+When technological value is highly concentrated:
 
-* Few actors control the technology
-* Markets tend to be more concentrated
+* Few actors possess the relevant capabilities
+* Market structures may be more concentrated
 
-As technology fees decline:
+As technology diffuses:
 
-* More actors can enter the market
-* Competition intensifies
+* More actors can participate
+* Market structures may evolve
 
-Thus, technology fees influence:
+It should be emphasized:
 
-* Market entry barriers
-* Competitive dynamics among firms
+**This describes structural relationships, not a single causal mechanism.**
 
 ---
 
 ## V. Technology Fees and Price Structure
 
-The dynamic nature of technology fees also affects price structures.
+Changes in Technology Fees essentially reflect:
 
-When technology fees decline:
-
-* Product prices may decrease
-* The share of basic functionality costs increases
-
-When new technologies emerge:
-
-* Prices of new products may increase
-* The share of technology fees rises
-
-Therefore, price structures continuously evolve alongside technological change.
-
----
-
-## VI. Technology Fees and Essential Goods
-
-The evolution of technology fees also affects what qualifies as essential goods.
-
-Technologies that were once part of premium products may, over time, become basic capabilities. Examples include:
-
-* Communication technologies
-* Internet services
-* Digital devices
-
-As technology fees decline, these become integrated into essential goods.
-
-Thus:
-
-**The scope of essential goods is itself dynamic.**
-
----
-
-## VII. Institutional Implications
-
-The dynamic nature of technology fees implies:
-
-**No institutional arrangement can assume that technology fees are fixed.**
+**Changes in how technological value appears within price structures.**
 
 For example:
 
-* Some currently high technology fees may decline in the future
-* New technology fees may emerge where none previously existed
+* In some stages, technological value appears more explicitly
+* In others, it still exists but is no longer separately identified
 
-Therefore, institutional design must incorporate:
+Therefore:
 
-* Mechanisms for dynamic adjustment
-* The capacity to adapt to technological change
+**Changes in Technology Fees are not external to price structures,**
+but rather:
+
+**A manifestation of changes within the internal composition of price structures.**
+
+---
+
+## VI. Technological Change and Basic Goods
+
+The dynamic nature of technology also affects how “basic living conditions” are defined.
+Some elements that were once high-end technologies gradually become universal capabilities, such as:
+
+* Communication capacity
+* Access to information
+* Use of digital tools
+
+In this process:
+
+* The way technological value is expressed changes
+* The structure of living-related needs evolves accordingly
+
+Therefore:
+
+**The scope of basic goods is itself dynamic.**
+
+---
+
+## VII. Note on the Role of Institutional Discussion
+
+The dynamic nature of Technology Fees implies that:
+
+**Any further discussion based on this framework must account for its non-static characteristics.**
+
+It should be clarified:
+
+**Institution-related discussions in later sections are exploratory extensions derived from this analysis,
+and do not constitute direct designs of real-world systems.**
 
 ---
 
 ## VIII. Summary
 
-Technology fees have a defining characteristic:
+Technology Fees exhibit a key characteristic:
 
-> **They are always in a state of dynamic change.**
+> **Their form of appearance within price structures is dynamically changing.**
 
-This change is driven by:
+These changes are related to:
 
 * Technological innovation
-* Technology diffusion
+* Technological diffusion
 * Technological replacement
 
-At different stages:
+More importantly:
 
-* Technology fee levels vary
-* Market structures differ
-* Price structures evolve
+**Technology Fees do not primarily reflect numerical changes, but how technological value is identified and expressed.**
 
-Understanding the dynamic nature of technology fees is therefore essential to understanding modern economic systems.
+Therefore:
 
-The next section will examine **how technology can be made publicly accessible and licensed**.
+Understanding the dynamic nature of Technology Fees requires understanding:
 
-[Next: A New System Based on Technology Fees: Public Access and Licensed Use](../technology-fee/system-and-public-access.md)
+* How technological structures evolve
+* How these changes are reflected—or no longer reflected—in prices
+
+The next section will further examine:
+
+**How technology can be made publicly accessible and licensed for use.**
+
+[Next: A System Based on Technology Fees: Public Access and Licensed Use](../technology-fee/system-and-public-access.md)
 
 [Back to Index](../index.md)

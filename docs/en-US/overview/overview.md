@@ -1,10 +1,18 @@
 # Technology Fee System: Structural Overview
 
-This document serves as the **overall overview** of the project.
-Its purpose is to explain the logical structure of the framework and the relationships between sections, rather than to provide full arguments.
-Detailed analysis, derivations, and case studies are presented in the respective chapters and appendices.
+This document serves as a **general overview** of the project.
+Its purpose is to outline the logical structure of the framework and the relationships between sections, rather than to provide full arguments.
+Detailed analysis, derivations, and case studies are presented in the respective sections and appendices.
 
-This project attempts to establish an analytical framework centered on **technology fees**, in order to understand price structures, industrial structures, and related institutional issues in the technological era.
+This project attempts to establish an analytical framework centered on **Technology Fee**,
+aimed at understanding technological value within price structures in the technological era and its structural position.
+
+It should be clearly stated:
+
+**This framework does not attempt to fully explain how prices are formed, as price formation mechanisms are inherently more complex.**
+This project focuses only on one key dimension:
+
+**How technological value exists within price structures, and how it can be identified.**
 
 [Back to Index](../index.md)
 
@@ -12,53 +20,57 @@ This project attempts to establish an analytical framework centered on **technol
 
 ## I. Background
 
-The starting point of this project is a reinterpretation of **inequality structures** in modern economies.
+The starting point of this project is a re-examination of the **structure of disparities** in modern economies.
 
-Under market economy conditions, asset inequality is often difficult to eliminate completely. This is due not only to institutional arrangements, but also to fundamental characteristics of economic activity itself. For example:
+Under market economy conditions, asset inequality is often difficult to eliminate completely.
+This is due not only to institutional arrangements, but also to fundamental characteristics of economic activity itself.
+For example:
 
 * Capital returns exhibit cumulative effects
 * Differences exist in access to technology and information
 * Economies of scale and network effects reinforce leading advantages
 * Innovation inherently involves high risk and high returns
 
-These factors jointly contribute to a long-term tendency for asset inequality to expand.
-Under such conditions, focusing solely on “eliminating asset inequality” often leads to significant institutional and efficiency challenges.
+These factors jointly contribute to the tendency for asset inequality to expand over time.
+In this context, attempting to “eliminate asset inequality” alone often leads to significant institutional and efficiency challenges.
 
-However, from the perspective of social stability and perceived fairness, people’s experiences are more directly shaped by **differences in living conditions**, rather than nominal asset gaps.
+However, from the perspective of social stability and perceived fairness, people's lived experiences are more directly shaped by **differences in living conditions**, rather than nominal asset gaps.
 In other words, social tensions are more likely to intensify when:
 
 * Basic living conditions are not adequately secured
-* Gaps in essential services are too large
+* Disparities in essential services are large
 * Upward mobility is perceived as inaccessible
 
 Therefore, this project shifts the focus to a different question:
 
-**How to control disparities in living standards when asset inequality cannot be fully eliminated.**
+**When asset inequality is difficult to eliminate, how can we understand and influence disparities in living standards?**
 
-If basic living conditions can be reliably guaranteed, then asset inequality may not directly translate into disparities at the level of survival.
-This question naturally leads to further discussion of price structures and industrial structures.
+This naturally leads to a closer examination of price structures.
 
 ---
 
 ## II. Price Structure
 
-Differences in living standards largely depend on **price structures**.
+Differences in living standards are largely determined by **price structures**.
 
-In modern economies, individuals typically obtain living conditions by purchasing goods and services through markets.
+In modern economies, people typically obtain living conditions through purchasing goods and services in the market.
 Therefore, living security depends not only on income levels, but also on the prices of essential goods.
-If the prices of basic necessities are too high, even small income differences can result in significant disparities in living standards. For example:
+
+If the prices of basic living-related goods are too high, even small income differences may result in significant disparities in living conditions.
+For example:
 
 * Basic housing costs
-* Healthcare expenses
+* Medical expenses
 * Education costs
 * Basic communication services
 * Basic transportation
 
-Price changes in these areas often have substantial impacts on overall societal living standards. A key question is therefore:
+Price changes in these areas often have a substantial impact on overall living standards.
+Thus, a key question arises:
 
-**Which goods and services should be considered essential.**
+**Which goods and services should be considered essential for basic living?**
 
-In modern societies, essential goods are no longer limited to traditional survival needs, but may include:
+In modern society, essential goods are no longer limited to traditional survival needs, but may include:
 
 * Food
 * Basic housing
@@ -66,12 +78,15 @@ In modern societies, essential goods are no longer limited to traditional surviv
 * Basic education
 * Basic communication
 * Basic transportation
-* Basic cultural and entertainment participation
+* Basic cultural and recreational participation
 
-If the prices of these essential goods can be maintained at relatively low levels, broad-based living security may become achievable.
+If the prices of these essential goods can be maintained at relatively low levels, living security may be achieved on a broader scale.
 
-However, in many modern industries, prices are not determined solely by production costs, but are heavily influenced by **technological systems**.
-Thus, understanding price structures requires examining the role of technology in price formation.
+However, in many modern industries, prices are not determined solely by production costs, but are strongly influenced by **technological systems**.
+
+Therefore, the key question of this project is not to fully explain price formation, but:
+
+**Within existing price structures, how can technological value be identified?**
 
 ---
 
@@ -81,158 +96,155 @@ The core concept proposed in this project is:
 
 **Technology Fee**
 
-A technology fee refers to the portion of a product or service price that reflects the value of technological innovation and technological systems.
+Technology Fee refers to the portion of a price structure that reflects the value of technological systems and technological innovation.
 
-In many modern industries, prices include not only production costs, but also substantial value derived from technological systems. For example:
+It must be emphasized:
+
+* Technology Fee is not a new economic variable
+* It is not an artificial decomposition of price
+* It is a method of identifying technological value already embedded in price
+
+In many modern industries, product prices include not only production costs, but also substantial value derived from technological systems.
+For example:
 
 * Software systems
 * Algorithms and data processing
 * Engineering design
 * Complex technical standards
 
-These elements often play a critical role in determining product value. Therefore, prices can be broadly divided into two components:
+These factors often play a critical role in determining product value.
+Therefore, this project does not attempt to construct a complete price model, but instead proposes:
 
-* **Production cost**
-* **Technology fee**
+**There exists a component within price structures that has long not been separately identified — the Technology Fee.**
 
-Technology fees typically exhibit several characteristics:
+Technology Fee typically exhibits several characteristics:
 
-1. Technological innovation generates new technology fees
-2. Technology diffusion gradually reduces technology fees
-3. The proportion of technology fees varies significantly across industries
-
-As technology develops, much technical knowledge tends to diffuse and eventually become widely accessible.
-In such cases, technology fees tend to decline over time.
-
-In this framework, technological systems may be managed through open structures, while technology fees serve as compensation for innovation.
-This approach aims to both incentivize innovation and promote technological diffusion.
+1. Technological innovation generates new Technology Fees
+2. Technological diffusion gradually reduces Technology Fees
+3. The proportion of Technology Fee varies significantly across industries
 
 It is also important to emphasize:
 
-**Technology itself does not automatically translate into competitive advantage for firms**
+**Technology itself does not automatically translate into enterprise competitiveness**
 
 Enterprise competitiveness still depends on:
 
-* Human capital
+* Human capability
 * Engineering experience
 * Organizational efficiency
 * Supply chain management
 
-Therefore, even with open technology, significant differences may persist between firms.
+Therefore, even when technology is identified or diffused, significant differences may still exist between firms.
 
 ---
 
-## IV. Policy Discussion
+## IV. Related Structural Issues
 
-If technology fees occupy an increasingly important role in modern economies, traditional institutions may face new challenges.
-One key issue is:
+Based on the above analytical framework, several related issues can be further explored.
+It should be noted:
 
-**How the gains from technological progress are reflected across society**
+**This section represents extensions of the analytical framework, not institutional design.**
 
-In this context, the project discusses several potential institutional considerations.
+These issues include:
 
-**Dynamic Universal Dividend Mechanism**
+### How technological value manifests in society
 
-If technological innovation continuously generates technology fee income, a portion of it could be used to support basic living security.
-Such a mechanism could evolve dynamically alongside economic development.
+How the value generated by technological innovation can have broader societal impact is an important question.
 
-**Challenges to Traditional Tax Systems**
+### Changes in traditional tax systems
 
-In technology-intensive industries, new economic patterns are emerging, such as:
+In technology-intensive industries, new economic phenomena are emerging, such as:
 
-* Profit concentration in a small number of technology platforms
+* Profits concentrating in a small number of technology platforms
 * Increasing prevalence of multinational operations
 * Rising importance of intangible assets
 
-These trends may pose challenges to traditional taxation systems.
+These factors may challenge traditional analytical approaches.
 
-**Technology Fee Perspective**
+### Supply-side issues
 
-From the perspective of technology fees, the value generated by technological innovation is already embedded in price structures.
-Thus, technology fees may provide an alternative lens for understanding economic structures in the technological era.
+If the price structure of essential goods changes, whether it affects supply is a question that requires specific analysis.
+Different industries may exhibit different patterns.
 
-**Supply-Side Considerations**
+### External environment
 
-If the prices of essential goods are reduced, whether supply will decline becomes an important question.
-Different industries may respond differently to such changes.
-
-**External Challenges**
-
-No institutional arrangement exists in isolation from the international environment.
-International trade, industrial competition, and technological competition may all influence institutional outcomes.
-These factors must therefore be considered in policy discussions.
+International trade, industrial competition, and technological competition all influence structural relationships between economies.
+These factors require analysis at a broader scale.
 
 ---
 
-## V. Institutional Evolution
+## V. Possible Structural Changes
 
-Even if a system is theoretically feasible, its real-world implementation typically requires a gradual evolutionary process.
-Institutional evolution may involve:
+Under this analytical framework, it is possible to observe potential structural changes.
+It should be emphasized:
+
+**These do not constitute a deterministic evolutionary path or direction.**
+
+These changes may include:
 
 * Changes in enterprise strategies
-* Formation of new technological divisions of labor
-* Emergence of new industrial structures
+* Formation of technological division of labor
+* Continuous adjustment of industrial structures
 
 For example, in high-tech industries, firms often face strategic choices such as:
 
-* Purchasing components that include embedded technology fees
-* Applying technology independently while paying technology fees
+* Using external technological systems
+* Developing in-house technological capabilities
 
-Different firms may choose different paths based on their capabilities, leading to new forms of industrial specialization.
+Different firms may choose different approaches based on their conditions, resulting in differentiated structures of specialization.
 
-Institutional evolution is typically gradual, rather than a one-time transformation.
+These changes are typically:
+
+* Gradual
+* Localized
+* Long-term and coexisting
 
 ---
 
 ## VI. Appendix I: Industry Analysis
 
-The proportion of technology fees varies significantly across industries.
+There are significant differences in the proportion of Technology Fee across industries.
 
-In some traditional sectors, technology is already highly diffused, resulting in relatively low technology fees. For example:
+In some traditional industries, technology has been widely diffused, resulting in relatively low Technology Fees. Examples include:
 
 * Agriculture
 * Basic industry
 * Traditional services
 
-In these sectors, prices are largely determined by production costs, with technology fees accounting for a small share.
+In these industries, prices are largely determined by production costs, and Technology Fee plays a relatively small role.
 
-In contrast, other industries show markedly different characteristics, such as:
+In contrast, other industries show a different pattern, such as:
 
 * Advanced manufacturing
-* Software industries
+* Software industry
 * Digital platform services
 
-In these sectors, technological systems themselves may constitute a major source of value.
+In these industries, technological systems themselves may constitute a major source of product value.
 
 For example:
 
-| Industry Type          | Technology Fee Share |
+| Industry Type          | Technology Fee Level |
 | ---------------------- | -------------------- |
 | Agriculture            | Low                  |
 | Basic Industry         | Low                  |
 | Traditional Services   | Low                  |
 | Advanced Manufacturing | Medium               |
-| Digital Industries     | High                 |
+| Digital Industry       | High                 |
 
-This variation indicates that technology fees are not only a component of price structures, but also influence the **overall industrial structure**.
-As technology advances, the role of technology fees in the economy may continue to grow.
+This difference indicates:
 
-Appendix I also includes several industry case studies to illustrate how technology fees manifest across sectors, including:
+**Technology Fee not only exists within price structures, but also influences industrial structures themselves.**
 
-* Agricultural products
-* Industrial products
-* Traditional services
-* Digital services
-
-These cases are intended to clarify concepts and structures, rather than provide comprehensive industry research.
+The appendix provides illustrative cases of structural differences and does not constitute a comprehensive industry study.
 
 ---
 
 ## Conclusion
 
-This project proposes a new analytical perspective for understanding price and industrial structures in the technological era.
-Its central question is not simply about technology itself, but rather:
+This project provides an analytical perspective for understanding technological value within price structures in the technological era.
 
-**The structural position of value generated by technological innovation within the economic system**
+Its core is not to explain price itself, but:
+
+**To identify the position and role of technological value within price structures.**
 
 [Back to Index](../index.md)

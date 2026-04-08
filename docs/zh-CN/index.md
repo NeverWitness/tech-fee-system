@@ -190,7 +190,7 @@ policy-discussion/
 
 - [动态全民补助机制](policy-discussion/dynamic-public-dividend.md)
 - [传统税收体系在技术时代面临的困境](policy-discussion/taxation-in-the-tech-era.md)
-- [技术费用如何回应技术时代的税收问题](policy-discussion/technology-fee-response.md)
+- [技术费用如何从另一种角度理解税收问题](policy-discussion/technology-fee-response.md)
 - [价格调整将进一步优化供给](policy-discussion/supply-distortion-question.md)
 - [技术费用制度可能面临的外部挑战](policy-discussion/external-challenges.md)
 

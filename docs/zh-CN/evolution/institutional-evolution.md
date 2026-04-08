@@ -1,4 +1,4 @@
-# 可能的演化方向
+# 结构变化的可能表现
 
 [上一节：企业策略与技术分工的可能变化](../evolution/enterprise-strategy.md)
 

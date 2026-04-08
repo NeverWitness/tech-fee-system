@@ -1,266 +1,264 @@
-# A New System Based on Technology Fees: Public Access and Licensed Use
+# Public Disclosure and Licensed Use of Technology: A Constrained Structural Proposal
 
 [Previous: Technology Fees Are Always Dynamically Changing](../technology-fee/dynamic-change.md)
 
 [Back to Index](../index.md)
 
-Previous sections established that:
+As discussed previously:
 
-* Technology fees are pervasive in modern economies
-* Technology naturally forms hierarchies, while knowledge requires active dissemination
-* Technology fees are continuously evolving
+* Technology Fees are pervasive in modern economies
+* Technology naturally forms hierarchies, while knowledge requires human-driven dissemination
+* Technology Fees are continuously dynamic
 
-Based on this, a further institutional question arises:
+Based on this, a further question can be raised:
 
-**If technology plays such a central role in the economy, how should it be organized and utilized?**
+**If technological value is already widely embedded in price structures, how might technology be organized and used?**
 
-In traditional systems, technology is typically managed through:
+It should be clarified:
 
-* Private control
-* Patent protection
-* Licensing between firms
-
-This section proposes an alternative approach:
-**technology can be made publicly accessible and used through a structured licensing system.**
+**This section proposes a structurally consistent direction under the Technology Fee framework,
+but remains at the level of principles rather than concrete institutional design.**
 
 ---
 
-## I. From Private Control to Public Systems
+## I. From Exclusive Control to Structural Organization
 
-Under traditional models, technology is often treated as an exclusive asset. For example:
+In traditional models, technology is often treated as an exclusive asset, for example:
 
 * Firms control technology through patents
 * Technology is traded via licensing agreements
-* Access depends on firm-to-firm negotiation
+* Access to technology depends on individual negotiation
 
-This structure has several characteristics:
+This approach often results in:
 
-* High uncertainty in access
-* Large variation in acquisition costs
-* Potential long-term technological lock-in
+* Uncertainty in technology usage
+* Significant variation in access costs
+* Long-term technological lock-in
 
-As technological complexity increases, this model may lead to:
+At the same time:
 
-* Technological monopolies
-* Redundant R&D efforts
-* Information asymmetry
+* Technological value is already widely embedded in price structures
+* But its expression is not transparent
 
-An alternative approach is therefore:
+This raises a structural question:
 
-**to incorporate technology into a public-access system.**
+**Can the organization of technology be made more consistent with how it exists within price structures?**
 
----
+Under this perspective, a basic structural concept emerges:
 
-## II. The Meaning of Public Technology Access
-
-Public access does not imply that technology has no value. Rather, it means:
-
-* Technical content can be accessed and understood
-* Technology is no longer entirely restricted by private control
-
-Within such a system:
-
-* Technical documentation
-* System structures
-* Methods of use
-
-can be systematically organized and made available. This helps to:
-
-* Reduce information asymmetry
-* Improve the efficiency of technology diffusion
-* Minimize redundant development efforts
+**Public disclosure + licensed use of technology**
 
 ---
 
-## III. Licensed Use Mechanism
+## II. The Meaning of Public Disclosure
 
-On the basis of public access, a **licensed use mechanism** can be introduced.
+Public disclosure does not imply complete openness, but rather:
 
-That is:
+**Achieving the highest feasible degree of visibility without undermining social and economic stability.**
 
-* Technology is publicly accessible
-* But its use requires authorization
+This implies:
 
-This mechanism can have several features:
+* Increased visibility of technology
+* Structured differences in the degree of openness
 
-### 1. Standardized Rules
-
-Technology use no longer depends on case-by-case negotiations, but instead:
-
-* Follows unified rules
-* Is authorized through standard procedures
-
-This reduces transaction complexity.
-
----
-
-### 2. Predictability
-
-Conditions for using technology become:
-
-* Clearly defined
-* Predictable
-
-This reduces uncertainty.
-
----
-
-### 3. Alignment with Technology Fees
-
-Use of technology typically corresponds to a **technology fee**,
-which reflects the **value of technological innovation**.
-
----
-
-## IV. Technology Hierarchies and Licensing Differences
-
-Given the hierarchical nature of technology, different levels can adopt different licensing approaches.
+A layered structure of disclosure may be considered:
 
 ### 1. Widely Diffused Technologies
 
-Examples include:
+* Already broadly disseminated
+* Have become basic capabilities
 
-* Mature industrial processes
-* Basic software technologies
-
-These technologies:
-
-* Are widely diffused
-* Have low usage barriers
-
-Thus, **authorization thresholds should be minimal, potentially close to automatic access**,
-and technology fees are typically low.
+→ **Fully open**
 
 ---
 
 ### 2. General Technologies
 
-Examples include:
+* Have some level of diffusion
+* Still retain technological value
 
-* Relatively recent engineering technologies
-* Medium-complexity systems
-
-These technologies:
-
-* Are publicly accessible
-* Still retain economic value
-
-Thus:
-
-* Authorization is required
-* Technology fees apply
+→ **Fully open + licensed use**
 
 ---
 
-### 3. Advanced Critical Technologies
-
-Examples include:
-
-* Core algorithms
-* Key engineering technologies
-
-These technologies may have:
+### 3. Advanced Technologies
 
 * High complexity
-* Strategic importance
+* Controlled by a limited number of actors
 
-Thus:
-
-* Licensing may be more restrictive
-* Usage conditions may be more stringent
+→ **Restricted disclosure + reviewed access + licensed use**
 
 ---
 
-## V. Compliance and Usage Boundaries
+### 4. Strategic Technologies
 
-Within a licensing system, technology use must comply with certain rules. For example:
+* Affect security or major structural stability
 
-* Authorization must be obtained prior to use
-* Technology must be used according to defined rules
-* Technology fees must not be bypassed
+→ **Minimal disclosure**
 
-Non-compliant use may result in:
+It should be emphasized:
 
-* Financial penalties
-* Restrictions on access
-
-Thus, technology use is no longer entirely unrestricted, but operates:
-
-**within a structured regulatory framework.**
+**This classification is a principled structure, not a fixed categorization system.**
 
 ---
 
-## VI. Impact on Firm Behavior
+## III. Mechanism of Licensed Use
 
-This institutional structure changes how firms access technology.
-Firms may choose to:
+Given a certain level of technological visibility, a mechanism of:
 
-* Use publicly available technology under license
-* Build upon existing technologies
-* Develop new technologies
+**Rule-based licensed use**
 
-At the same time, competition shifts toward:
+can be introduced.
+
+Its potential characteristics include:
+
+### 1. Rule-Based Structure
+
+Technology use does not rely entirely on individual negotiation, but operates within a defined rule framework.
+
+---
+
+### 2. Predictability
+
+Conditions for technology use become more transparent, reducing uncertainty.
+
+---
+
+### 3. Correspondence with Technology Fees
+
+Technology use is typically associated with a corresponding Technology Fee.
+
+It should be emphasized:
+
+**Technology Fees are not created by this structure,
+but represent technological value that already exists, expressed more directly.**
+
+---
+
+## IV. Consumer Trust and Degree of Disclosure
+
+Within this structure, a constraining principle can be introduced:
+
+> **Technologies underlying goods available for purchase should be disclosed to a degree sufficient to support consumer trust.**
+
+This implies:
+
+* Disclosure serves not only production systems
+* But also the structure of market trust
+
+This principle defines a lower bound for disclosure, rather than a maximum requirement.
+
+---
+
+## V. Decentralization and Rule Structures
+
+In this conceptual structure, the use of technology does not rely on case-by-case centralized control, but instead resembles:
+
+**Centralized rules + distributed execution**
+
+This implies:
+
+* Usage can occur in decentralized environments
+* Without reliance on fully centralized approval
+* While still operating under unified rules
+
+It should be noted:
+
+**This project does not specify governance mechanisms, but highlights a potential non-fully centralized characteristic.**
+
+---
+
+## VI. Potential Impact on Firm Behavior
+
+Under such a structure, the way firms access technology may change:
+
+* Using publicly available technologies
+* Building upon existing technologies
+* Developing new technological capabilities
+
+As a result, differences between firms may increasingly reflect:
 
 * Capability in applying technology
-* Engineering expertise
+* Engineering competence
 * Organizational efficiency
 
-rather than relying solely on exclusive control of technology.
+Rather than solely control over technology itself.
 
 ---
 
-## VII. Impact on Technology Diffusion
+## VII. Potential Impact on Technology Diffusion
 
-A system of public access and licensing can accelerate technology diffusion due to:
+With increased visibility and clearer access pathways, the following changes may occur:
 
-* Greater transparency of technical information
-* Clearer pathways for adoption
-* Lower entry barriers
+* Changes in how technology diffuses
+* Changes in entry barriers
 
-This can contribute to:
+These may further affect:
 
-* Higher overall productivity
-* Industrial development
+* Industrial structures
+* Distribution of capabilities
+
+It should be emphasized:
+
+**These are potential structural effects, not deterministic outcomes.**
 
 ---
 
-## VIII. Impact on Technology Fees
+## VIII. Relationship with Technology Fees
 
-Under such a system, technology fees become more explicit.
+Under this structure, Technology Fees can be understood from another perspective:
 
-They are no longer embedded implicitly in:
+* Technology Fees are not additional components
+* They are explicit representations of existing technological value
 
-* Product prices
-* Monopoly structures
+Therefore:
 
-Instead, they are reflected more directly and transparently.
+* The relationship between technology use and Technology Fees may become clearer
+* The technological component within price structures may become more identifiable
+
+---
+
+## IX. Institutional Objectives
+
+The overall direction of institutional considerations in this project is:
+
+* Under the condition that asset inequality is difficult to eliminate
+* To ensure basic living standards
+* To reduce living inequality
+* To support social development
 
 At the same time:
 
-* Technology fees can decline as technologies mature
-* Technology fees can vary by technological level
+* To promote technological diffusion
+* To maintain incentives for innovation
+
+It should be emphasized:
+
+**These objectives guide the direction of analysis, rather than constituting concrete policy design.**
 
 ---
 
-## IX. Summary
+## X. Summary
 
-This section proposes an institutional framework based on technology fees:
+This section proposes a structural concept within the Technology Fee framework:
 
-**Public Access + Licensed Use**
+**A layered system of public disclosure and licensed use of technology**
 
-Within this structure:
+Its core significance lies in:
 
-* Technology content is publicly accessible
-* Usage is governed by standardized authorization
-* Technology fees serve as returns on innovation
+* Aligning the organization of technology with its presence in price structures
+* Providing a pathway from “implicit technological value” to “identifiable structure”
 
-This system seeks to balance two objectives:
+At the same time, it must be reiterated:
 
-* Promoting technology diffusion
-* Maintaining incentives for innovation
+* This remains a principle-level concept
+* It is not a complete institutional design
+* Nor is it the only possible approach
 
-The next section will examine **how firm competitiveness evolves under explicit technology fee structures**.
+The next section will further examine:
 
-[Next: Transforming Technology into Competitive Advantage Through People and Organizations](../technology-fee/competition.md)
+**How enterprise competitiveness evolves when Technology Fees become more explicitly identifiable.**
+
+[Next: From Individuals and Organizations to Enterprise Competitiveness](../technology-fee/competition.md)
 
 [Back to Index](../index.md)

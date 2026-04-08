@@ -192,7 +192,7 @@ policy-discussion/
 - [传统税收体系在技术时代面临的困境](policy-discussion/taxation-in-the-tech-era.md)
 - [技术费用如何从另一种角度理解税收问题](policy-discussion/technology-fee-response.md)
 - [价格结构变化与供给问题的再理解](policy-discussion/supply-distortion-question.md)
-- [技术费用制度可能面临的外部挑战](policy-discussion/external-challenges.md)
+- [技术费用相关结构的外部环境问题](policy-discussion/external-challenges.md)
 
 ### 五、制度演化（可能路径）
 

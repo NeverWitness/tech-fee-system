@@ -46,6 +46,8 @@ jobs:
       - name: Set build date
         run: |
           echo "BUILD_DATE=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+          echo "VERSION=$(cat version)" >> $GITHUB_ENV
+          echo "VERSION_EN-US=$(cat version_en-US)" >> $GITHUB_ENV
 
       - name: Inject build date into homepage
         run: |
@@ -58,7 +60,7 @@ jobs:
             echo "description: 技术费用框架：解释技术时代价格结构、技术扩散与收入分配的新模型"
             echo "---"
             echo ""
-            echo "> *Build: $DATE*"
+            echo "> *Version: $VERSION · Build: $DATE*"
             echo ""
             echo "---"
             echo ""
@@ -73,7 +75,7 @@ jobs:
             echo "description: A framework explaining price structure, technology diffusion, and income distribution in the technological era"
             echo "---"
             echo ""
-            echo "> *Build: $DATE*"
+            echo "> *Version: $VERSION_EN-US · Build: $DATE*"
             echo ""
             echo "---"
             echo ""

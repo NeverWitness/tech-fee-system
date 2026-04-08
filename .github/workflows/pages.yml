@@ -47,7 +47,7 @@ jobs:
         run: |
           echo "BUILD_DATE=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
           echo "VERSION=$(cat version)" >> $GITHUB_ENV
-          echo "VERSION_EN_US=$(cat version_en-US)" >> $GITHUB_ENV
+          echo "VERSION_EN_US=$(cat version_en_US)" >> $GITHUB_ENV
 
       - name: Inject build date into homepage
         run: |

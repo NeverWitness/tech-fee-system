@@ -235,6 +235,6 @@
 
 下面将讨论**技术费用如何从另一种角度理解这些变化。**
 
-[下一节：技术费用如何回应技术时代的税收困境](../policy-discussion/technology-fee-response.md)
+[下一节：技术费用如何从另一种角度理解税收问题](../policy-discussion/technology-fee-response.md)
 
 [回到目录](../index.md)

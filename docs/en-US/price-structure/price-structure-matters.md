@@ -1,25 +1,25 @@
 # Why Restructuring Price Systems Is Necessary for Living Security
 
-[Previous: Basic Goods and Experience Upgrades](basic-goods-and-beyond.md)
+[Previous: Basic Goods and Experience Upgrades](../price-structure/basic-goods-and-beyond.md)
 
 [Back to Index](../index.md)
 
-The previous sections established two key points:
+In previous sections, two key points were established:
 
 * Asset inequality is difficult to fully eliminate
-* Living disparities have a more direct impact on social stability than asset inequality
+* Living inequality has a more direct impact on social stability
 
-At the same time, goods and services in modern economies can be broadly divided into two layers:
+At the same time, goods and services in modern society can be broadly divided into two layers:
 
-* Essential goods
+* Basic goods
 * Experience upgrades
 
-Within this framework, an important question arises:
+Within this structure, an important question arises:
 
-**If the goal is to ensure stable living security, is income redistribution alone sufficient?**
+**If the goal is to achieve stable living security, is income redistribution alone sufficient?**
 
-This section introduces a different perspective:
-**Living security is not only an income issue, but also a matter of price structure.**
+This section presents a different perspective:
+**Living security is not only an income issue, but also a price structure issue.**
 
 ---
 
@@ -31,134 +31,160 @@ In many policy discussions, living security is typically addressed through **inc
 * Minimum income guarantees
 * Cash subsidies
 
-These measures can indeed alleviate financial pressure to some extent.
-However, if the prices of essential goods continue to rise, relying solely on income transfers may encounter two problems:
+These measures can indeed alleviate living pressure to some extent.
+However, if the prices of basic goods continue to rise, relying solely on income subsidies often leads to two problems:
 
-* First, the scale of subsidies must continuously increase
-* Second, subsidies may be partially offset by rising prices
+* First, the scale of subsidies must continuously expand
+* Second, subsidies are often offset by price increases
 
-For example, if housing, healthcare, or education costs keep increasing, then even higher subsidies may not significantly improve actual living conditions.
-Therefore, living security depends not only on income levels, but also on the **price structure of essential goods**.
+For example, if housing, healthcare, or education costs keep rising, even increased income support may not significantly improve actual living conditions.
+
+Therefore, living security depends not only on income levels, but also on the **price structure of basic goods**.
 
 ---
 
-## II. The Special Nature of Essential Goods Pricing
+## II. The Special Nature of Basic Goods Pricing
 
-Essential goods differ from general consumer goods in several economic aspects.
+Basic goods differ from ordinary consumer goods in several economic aspects.
 
-First, demand is typically **inelastic**. For example:
+First, their demand is typically **inelastic**.
+Examples include:
 
 * Food
 * Basic housing
 * Basic healthcare
 
-These needs cannot easily be reduced or avoided.
+These needs are difficult to reduce or avoid.
 
 Second, these goods have a decisive impact on living conditions.
-If essential goods are too expensive, overall living pressure may remain high even if other goods become cheaper.
+If their prices are too high, overall living pressure can remain significant even if other goods become cheaper.
 
-Therefore, the pricing of essential goods plays a central role in discussions of living security.
+Therefore, in discussions of living security, the pricing of basic goods plays a central role.
 
 ---
 
-## III. The Impact of Price Structure on Living Disparities
+## III. The Impact of Price Structure on Living Inequality
 
-Living disparities arise not only from income differences, but also from price structures.
+Living inequality arises not only from income differences, but also from price structures.
 
 For example, in a society where:
 
 * Basic food is affordable
-* Housing is accessible
-* Healthcare costs are stable
+* Basic housing is accessible
+* Basic healthcare costs are stable
 
-then even with large income differences, disparities in living conditions may remain limited.
+Even with large income differences, disparities in living conditions may remain relatively limited.
 
-Conversely, if essential goods are expensive, even small income differences may lead to significant living disparities.
+Conversely, if basic goods are expensive, even small income differences can lead to significant inequality in living conditions.
 
-Thus, the magnitude of living disparities is closely related to the **position of essential goods within the price structure**.
+Therefore, the extent of living inequality is closely related to:
+
+**The position of basic goods within the price structure.**
 
 ---
 
 ## IV. Experience Upgrades and Price Differentiation
 
-In modern economies, many goods and services are offered at multiple tiers.
+In modern economies, many goods and services are offered across multiple tiers.
 
-Housing may include:
+For example, housing can be divided into:
 
 * Basic housing
 * Improved housing
 * High-end housing
 
-Healthcare services may include:
+Healthcare services can be divided into:
 
-* Basic care
+* Basic healthcare
 * Specialized care
 * Premium medical services
 
-Consumer electronics may include:
+Consumer electronics can be divided into:
 
 * Basic functionality
 * High-performance products
 * Premium experience products
 
-In this structure, price differences are primarily reflected in **experience upgrades**.
-If essential goods remain affordable while upgraded products are freely differentiated, then inequality is mainly expressed at the experience level.
+Within this structure, price differences are mainly expressed at the level of **experience upgrades**.
+
+If the prices of basic goods remain low while experience upgrade products are freely differentiated, then inequality is primarily reflected at the experience level.
 
 ---
 
 ## V. Technological Progress and Price Structure
 
-Technological progress plays a critical role in shaping price structures.
+Technological progress has a significant impact on price structures.
 
 In many industries, new technologies first appear in high-end products, such as:
 
-* Advanced electronics
-* High-performance industrial equipment
+* Premium electronics
+* Advanced industrial equipment
 * New digital services
 
-As technology diffuses, it gradually enters mainstream products.
-Thus, many features that were once premium experiences eventually become standard capabilities.
+As technology diffuses:
 
-This implies:
+* These technologies gradually enter mainstream products
+* Features once considered premium become basic capabilities
+
+This process implies that:
 
 **Technological development continuously reshapes price structures.**
 
-If this process leads to declining prices for essential goods, overall living security may improve accordingly.
+If this process leads to a gradual reduction in the prices of basic goods, the level of living security may improve accordingly.
 
 ---
 
 ## VI. The Meaning of Restructuring Price Systems
 
-Restructuring price systems does not simply mean administrative price control.
-More importantly, it involves understanding:
+Restructuring price systems does not simply mean administratively controlling prices.
+More importantly, it requires understanding:
 
 **How prices are formed.**
 
-In many modern industries, prices include not only production costs, but also significant technological components, such as:
+In many modern industries, prices appear to be determined by production costs and market pricing, but they already incorporate substantial value generated by technological systems, such as:
 
 * Software systems
 * Engineering design
 * Technological innovation
 
-These components may play a larger role in pricing than physical production costs.
+These technological factors may appear as:
 
-Therefore, understanding price structures requires analyzing the role of technology within them.
+* Part of cost (e.g., technology procurement, accumulated R&D investment)
+* Part of profit (e.g., premiums or returns from technological advantage)
+
+Thus, technology is not external to price, but rather:
+
+**Already embedded within the price structure, though not explicitly separated.**
+
+This implies:
+
+* Current price structures already contain a distribution of technological value
+* Price differences across products partially reflect differences in technological layers
+
+Therefore, understanding price structures is not about simply decomposing prices, but about:
+
+**Identifying technological value that already exists within prices but has not been explicitly expressed.**
 
 ---
 
 ## VII. Summary
 
-Living security is not only an income issue, but also a structural issue of pricing.
+Living security is not only an income issue, but also a price structure issue.
 
-If essential goods remain affordable, then even in the presence of asset inequality, disparities in living conditions may be contained.
+If the prices of basic goods remain affordable, then even with asset inequality, disparities in living conditions can be contained.
+Therefore, achieving living security requires attention to:
 
-Achieving living security therefore requires attention to:
-
-* The price structure of essential goods
+* The price structure of basic goods
 * The impact of technological progress on price structures
-* The relationship between essential goods and experience upgrades
+* The relationship between basic goods and experience upgrades
 
-With this foundation, the next section will examine **the role of technology fees in modern economies**.
+At the same time, it is important to recognize:
+
+**Current price structures already contain a distribution of technological value, though it has not yet been explicitly distinguished.**
+
+Based on this understanding, the next section will examine:
+
+**The pervasive role of technology fees in modern economies.**
 
 [Next: The Ubiquity of Technology Fees](../technology-fee/concept.md)
 

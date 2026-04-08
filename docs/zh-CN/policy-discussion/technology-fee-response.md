@@ -175,6 +175,6 @@
 
 下面将讨论**价格结构变化是否会影响供给行为。**
 
-[下一节：价格调整将进一步优化供给](../policy-discussion/supply-distortion-question.md)
+[下一节：价格结构变化与供给问题的再理解](../policy-discussion/supply-distortion-question.md)
 
 [回到目录](../index.md)

@@ -1,30 +1,29 @@
-# The Living Gap Matters More Than Asset Inequality
+# Living Inequality Matters More Than Asset Inequality
 
-[Previous: Asset Inequality Is Hard to Eliminate](asset-inequality.md)
+[Previous: Asset Inequality Is Difficult to Eliminate](../background/asset-inequality.md)
 
 [Back to Index](../index.md)
 
 In discussions of social inequality, attention is often first directed toward **asset inequality**.
-However, from the perspective of social stability and individual experience, what more directly affects quality of life is often **differences in living standards**.
+However, from the perspective of social stability and individual experience, what more directly affects people’s quality of life is often **inequality in living standards**.
 
-While asset inequality and living disparities are related, they are not identical.
+Although asset inequality and living inequality are related, they are not identical.
 In many cases, the primary source of social tension is not the distribution of assets itself, but differences in actual living conditions across groups.
-Therefore, when analyzing economic structures and institutional arrangements, it is necessary to distinguish between these two forms of inequality and reconsider their roles in society.
+Therefore, when discussing economic structures and institutional arrangements, it is necessary to distinguish between these two forms of inequality and reconsider their roles in society.
 
 ---
 
-## I. The Difference Between Asset Inequality and Living Disparities
+## I. The Difference Between Asset Inequality and Living Inequality
 
-**Asset inequality** typically refers to differences in wealth holdings, such as:
+**Asset inequality** typically refers to differences in the ownership of wealth or assets, such as:
 
 * Real estate
 * Stocks and financial assets
-* Business ownership
+* Corporate equity
 * Savings and investments
 
-These assets may have substantial value, but they do not necessarily translate directly into everyday living conditions.
-
-By contrast, **living disparities** are reflected in actual living environments and access to opportunities, such as:
+These assets may have high value, but they do not necessarily directly affect day-to-day living conditions.
+By contrast, **living inequality** is more directly reflected in actual living environments and access to opportunities, such as:
 
 * Housing conditions
 * Access to healthcare
@@ -32,39 +31,36 @@ By contrast, **living disparities** are reflected in actual living environments 
 * Basic transportation and communication
 * Cultural and social participation
 
-Living disparities directly affect daily life and are therefore more immediately perceptible.
+Living inequality directly affects the quality of daily life and is therefore more easily perceived.
 
 ---
 
-## II. Living Disparities More Strongly Shape Social Perception
+## II. Living Inequality More Directly Shapes Social Perception
 
-From a social and psychological perspective, individuals are more sensitive to **differences in living conditions** than to differences in asset ownership.
-
-For example, if people across income groups are able to:
+From a socio-psychological perspective, people are more sensitive to **differences in living conditions** than to differences in assets.
+For example, if individuals across income groups can all:
 
 * Access basic healthcare
 * Receive basic education
-* Use essential communication services
+* Use basic communication services
 * Live in relatively safe environments
 
-then even significant asset inequality may not result in strong social conflict.
+Then even if asset inequality is large, social conflict may not be significant.
+Conversely, if living conditions differ substantially, such as:
 
-Conversely, if disparities in living conditions are pronounced, such as:
+* Severe inequality in access to healthcare
+* Excessively high basic housing costs
+* Large disparities in educational opportunities
 
-* Severe inequality in healthcare access
-* Excessively high housing costs
-* Large gaps in educational opportunities
+Then even moderate asset inequality may lead to a strong sense of unfairness.
 
-then even moderate asset inequality may generate strong perceptions of unfairness.
-
-Therefore, living disparities often have a more direct impact on social stability than asset inequality.
+Therefore, living inequality tends to have a more direct impact on social stability than asset inequality.
 
 ---
 
-## III. Asset Inequality Does Not Necessarily Translate into Living Disparities
+## III. Asset Inequality Does Not Necessarily Translate into Living Inequality
 
-In some social structures, even when asset inequality is large, living conditions can remain relatively similar.
-
+In some social structures, even with large asset disparities, living conditions can remain relatively similar.
 For example, if a society can reliably provide:
 
 * Basic education
@@ -72,27 +68,26 @@ For example, if a society can reliably provide:
 * Basic transportation
 * Essential public services
 
-then the existence of large asset holdings by some individuals does not necessarily alter the baseline living conditions of others.
+Then even if some individuals hold substantial assets, the everyday living conditions of the general population may not differ dramatically.
 
 In other words:
 
-**The social impact of asset inequality largely depends on the extent of living disparities.**
+**Whether asset inequality affects social stability depends largely on the level of living inequality.**
 
-When baseline living conditions are well secured, the effects of asset inequality may be more limited.
+If the level of living security is relatively high, the social impact of asset inequality may be limited.
 
 ---
 
-## IV. The Structure of Modern Living Needs
+## IV. The Structure of Living Needs in Modern Society
 
-As societies develop, the structure of living needs evolves.
-
+As society develops, the structure of living needs also evolves.
 In traditional societies, basic needs were often concentrated in:
 
 * Food
-* Simple shelter
+* Simple housing
 * Basic clothing
 
-In modern societies, however, the structure of living needs has become more complex, including:
+In modern societies, however, living needs have become more complex, including:
 
 * Education
 * Healthcare
@@ -100,55 +95,57 @@ In modern societies, however, the structure of living needs has become more comp
 * Cultural participation
 * Opportunities for social mobility
 
-These elements increasingly form part of **basic living capabilities**.
-If disparities in these areas become too large, significant living gaps may emerge.
+These needs have increasingly become part of **basic living capability**.
+If disparities in these areas are large, significant living inequality may emerge.
 
 ---
 
-## V. Living Disparities and Social Mobility
+## V. Living Inequality and Social Mobility
 
-Living conditions affect not only present quality of life, but also **future opportunities**. For example:
+Living conditions affect not only current quality of life, but also **future opportunities**.
+For example:
 
-* Differences in education affect career prospects
-* Differences in healthcare affect long-term well-being
-* Differences in information access affect development opportunities
+* Differences in educational resources affect career opportunities
+* Differences in healthcare affect long-term health
+* Differences in access to information affect development opportunities
 
-Thus, living disparities influence social mobility through multiple channels.
-If disparities in basic living conditions become too large, social mobility may decline.
-This is one reason why discussions of living security are central in many societies.
+Therefore, living inequality often influences social mobility through multiple channels.
+If disparities in basic living conditions are too large, social mobility may decline.
+This is one of the key reasons why living security is widely discussed in social policy contexts.
 
 ---
 
-## VI. The Role of Price Structure in Living Disparities
+## VI. The Role of Price Structure in Living Inequality
 
-Living disparities are determined not only by income, but also by **price structures**.
-
-If essential goods and services are priced too high, such as:
+Living inequality is not determined solely by income, but is also closely related to **price structure**.
+If certain essential goods are too expensive, such as:
 
 * Basic housing
 * Healthcare services
 * Educational resources
 
-then even small income differences may lead to significant disparities in living conditions.
+Then even small income differences may result in substantial living inequality.
 
-Therefore, a key factor in understanding living disparities is:
+Therefore, understanding living inequality requires attention to a key factor:
 
 **The price structure of essential goods.**
 
-If essential goods can be maintained at stable and affordable levels, living disparities may be mitigated to some extent.
+If the prices of essential goods remain relatively stable and affordable, living inequality may be mitigated to some extent.
 
 ---
 
 ## VII. Summary
 
-While asset inequality and living disparities are related, their roles in society differ:
+Although asset inequality and living inequality are related, they play different roles in society:
 
-* Asset inequality reflects wealth distribution
-* Living disparities directly affect living conditions
+* Asset inequality primarily reflects wealth distribution
+* Living inequality directly affects living conditions
 
-In many cases, social stability and perceptions of fairness depend more on **differences in living conditions**.
+In many cases, social stability and perceived fairness depend more on **differences in living conditions**.
 
-Therefore, the next section will further explore **how price structures and industrial structures can be used to manage living disparities**.
+Therefore, the next section will further explore:
+
+**How living inequality can be managed through price structure and industrial structure.**
 
 [Next: Basic Goods and Experience Upgrades](../price-structure/basic-goods-and-beyond.md)
 

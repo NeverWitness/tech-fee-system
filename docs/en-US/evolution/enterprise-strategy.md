@@ -234,6 +234,6 @@ The next section will examine:
 
 **Possible directions of structural evolution over time.**
 
-[Next: Possible Directions of Evolution](../evolution/institutional-evolution.md)
+[Next: Possible Directions of Structural Evolution](../evolution/institutional-evolution.md)
 
 [Back to Index](../index.md)

@@ -212,6 +212,6 @@
 
 下面将进一步讨论**相关结构可能如何随时间演化。**
 
-[下一节：可能的演化方向](../evolution/institutional-evolution.md)
+[下一节：结构变化的可能表现](../evolution/institutional-evolution.md)
 
 [回到目录](../index.md)

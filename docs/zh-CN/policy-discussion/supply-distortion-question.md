@@ -181,6 +181,6 @@
 
 下面将讨论**技术费用相关结构在外部环境中可能面临的挑战。**
 
-[下一节：技术费用制度面临的外部挑战](../policy-discussion/external-challenges.md)
+[下一节：技术费用相关结构的外部环境问题](../policy-discussion/external-challenges.md)
 
 [回到目录](../index.md)

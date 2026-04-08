@@ -196,6 +196,6 @@
 
 下面将进一步讨论**在这一背景下，企业与技术分工可能如何变化。**
 
-[下一节：企业策略与技术分工](../evolution/enterprise-strategy.md)
+[下一节：企业策略与技术分工的可能变化](../evolution/enterprise-strategy.md)
 
 [回到目录](../index.md)

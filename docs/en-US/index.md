@@ -2,57 +2,89 @@
 
 > An analytical framework for understanding price structures and technological value in the technological era
 
-**Note:** Due to ongoing development toward **v0.3**, the main body of **v0.2 will not have a full English version**. This section provides only a structured overview and partial translation.
-
 **Project Status: Appendix Expansion Phase**
 
-The stable version can be accessed via the Pages site:
-[https://neverwitness.github.io/tech-fee-framework/](https://neverwitness.github.io/tech-fee-framework/)
+The stable version is available via the [Pages version](https://neverwitness.github.io/tech-fee-framework/).
 
 ---
 
 ## Project Overview
 
-This project proposes a structural framework centered on **Technology Fee**, aimed at explaining:
+This project proposes a structural framework centered on **Technology Fee**,
+aimed at understanding:
 
-* How prices are formed in the technological era
-* How technological value is embedded within price structures
+* How technological value exists within prices in the technological era
+* How technological value is reflected in price structures
 * Why price differences across industries are increasingly driven by technology
 
 In the modern economy, the pricing of goods and services is increasingly:
 
 * No longer primarily determined by physical production costs
-* But dominated by software systems, engineering systems, and technological capabilities
+* But instead driven by software systems, engineering structures, and technological capabilities
 
 Therefore:
 
-**To understand price structures, one must understand technology fees.**
+**Understanding technological value in price structures requires identifying the Technology Fee.**
 
-This project aims to provide a unified analytical framework to:
+This project attempts to provide an analytical framework to:
 
 * Understand the central role of technology in the modern economy
-* Identify technology fees already embedded within price structures
+* Identify existing technology fees embedded in price structures
 * Analyze differences in technology fee structures across industries
-* Explore how technological value can be expressed institutionally
+* Explore how technological value is expressed within broader structures
 
-It is important to emphasize:
+It should be emphasized:
 
-**Technology Fee is not a newly added component of price, but an explicit recognition of existing technological value.**
+**Technology Fee is not an additional component of price, but an identification of already existing technological value.**
+
+---
+
+## Important Notes (Reading Guide)
+
+The core of this project is:
+
+**Identifying technological value that already exists in price structures but has not been explicitly expressed.**
+
+It is important to clarify:
+
+* This project is primarily an **analytical framework**, not a policy or institutional design
+* It does not attempt to fully explain how prices are formed, as price formation is inherently more complex
+* It focuses only on one key dimension: how technological value exists within price structures
+
+Therefore:
+
+**This project focuses on:**
+
+* How technological value is embedded in price structures
+* Why this value has long not been separately identified
+* How to structurally identify and express this component
+
+Rather than:
+
+* Fully decomposing prices
+* Constructing a complete theory of price formation
+* Directly proposing specific institutional solutions
+
+Terms such as “system” or “evolution” in directory and file names are used only for structural organization, and do not imply predefined intentions, designs, or pathways.
+
+Institution-related discussions in this project:
+
+**Should be understood as extensions and explorations derived from the analytical framework, not as predefined institutional proposals.**
 
 ---
 
 ## Core Questions (Why a Technology Fee Framework is Needed)
 
-This project is centered around the following key questions:
+This project centers on the following key questions:
 
-* Why are high-tech products often priced far above their production cost?
-* Why is the living gap between countries difficult to narrow?
-* Why can digital products be replicated at near-zero cost yet maintain high prices?
+* Why are high-tech products often priced far above their production costs?
+* Why is it difficult to reduce living standard gaps between countries?
+* Why can digital products be replicated at near-zero cost while maintaining high prices?
 * Why has technological diffusion not led to price reductions?
 
-The common core behind these questions is:
+The shared core of these questions is:
 
-**Technological value that exists within price structures but is not explicitly identified.**
+**There exists technological value in price structures that has not been separately identified.**
 
 ---
 
@@ -62,47 +94,54 @@ The common core behind these questions is:
 
 Technology Fee refers to:
 
-**The portion of a price structure that reflects the value of technological systems and innovation.**
+**The portion of a price structure that reflects the value of technological systems and technological innovation.**
+
+Further clarification:
+
+* Technology Fee is not a new economic variable
+* It is not an artificial decomposition of price
+* It is a way to identify technological value that already exists within price
 
 Its manifestation varies significantly across industries:
 
-| Industry Type          | Technology Fee Characteristics         |
-| ---------------------- | -------------------------------------- |
-| Agriculture            | Low (technology widely diffused)       |
-| Basic Industry         | Low (mature technology)                |
-| Traditional Services   | Low (labor-dependent)                  |
-| Advanced Manufacturing | Medium (engineering systems important) |
-| B2C Digital Services   | High                                   |
-| B2B Digital Services   | Very High                              |
+| Industry Type          | Characteristics of Technology Fee     |
+| ---------------------- | ------------------------------------- |
+| Agriculture            | Low, technology widely diffused       |
+| Basic Industry         | Low, mature technology                |
+| Traditional Services   | Low, labor-dependent                  |
+| Advanced Manufacturing | Medium, engineering systems important |
+| 2C Digital Services    | High                                  |
+| 2B Digital Services    | Very high                             |
 
 ---
 
 ## Project Objectives
 
-This project focuses on **structural analysis and institutional exploration**, rather than specific policy design.
+This project is a study with **structural analysis as its core and related discussions as extensions**, rather than a concrete policy proposal.
+
+Specifically:
+
+* Structural analysis: the core content of the project
+* Related discussions: extended analysis based on the structure
 
 Main objectives include:
 
-* Building a price structure analysis framework based on technology fees
-* Explaining how technological value manifests in the economy
-* Discussing the relationship between technology fees and institutional structures
-* Providing a foundation for future theoretical and policy research
+* Building a price structure analysis framework from the perspective of Technology Fee
+* Understanding how technological value manifests in the economy
+* Discussing the relationship between Technology Fee and other structural issues
+* Providing an analytical perspective for future research
 
 Current focus:
 
-**How technology fees exist within price structures and how they can be explicitly expressed.**
+**How Technology Fee exists within price structures and how it can be explicitly identified.**
 
 ---
 
 ## Document Structure
 
-The project documentation is organized as follows:
-
----
+The project documentation is organized into the following sections:
 
 ### 0. [Overview](overview/overview.md)
-
----
 
 ### I. Background
 
@@ -110,10 +149,10 @@ The project documentation is organized as follows:
 background/
 ```
 
-Describes real-world problems:
+Describing real-world problems:
 
-* [Asset inequality is difficult to eliminate](background/asset-inequality.md)
-* [Living gap matters more than asset gap](background/asset-vs-living-gap.md)
+* [Difficulty in eliminating asset inequality](background/asset-inequality.md)
+* [Living standard gaps are more important than asset gaps](background/asset-vs-living-gap.md)
 
 ---
 
@@ -123,10 +162,10 @@ Describes real-world problems:
 price-structure/
 ```
 
-Discusses:
+Discussion:
 
-* [Basic goods vs. experience upgrades](price-structure/basic-goods-and-beyond.md)
-* [Reconstructing price structure for living保障](price-structure/price-structure-matters.md)
+* [Basic goods and experience upgrades](price-structure/basic-goods-and-beyond.md)
+* [Restructuring price systems for living guarantees](price-structure/price-structure-matters.md)
 
 ---
 
@@ -136,36 +175,36 @@ Discusses:
 technology-fee/
 ```
 
-* [The universality of technology fees](technology-fee/concept.md)
-* [Technology forms hierarchies while knowledge is artificially diffused](technology-fee/hierarchy-and-dissemination.md)
-* [Technology fees are always dynamic](technology-fee/dynamic-change.md)
-* [A new system based on technology fees: public access and licensed use](technology-fee/system-and-public-access.md)
-* [Transformation into enterprise competitiveness through people and organizations](technology-fee/competition.md)
+* [The universal existence of Technology Fee](technology-fee/concept.md)
+* [Technology forms hierarchies while knowledge is artificially disseminated](technology-fee/hierarchy-and-dissemination.md)
+* [Technology Fee is always dynamically changing](technology-fee/dynamic-change.md)
+* [A system based on Technology Fee: openness and licensed use](technology-fee/system-and-public-access.md)
+* [Transformation into enterprise competitiveness via people and organizations](technology-fee/competition.md)
 
 ---
 
-### IV. Policy Discussion
+### IV. Related Structural Issues (Extensions Based on the Framework)
 
 ```
 policy-discussion/
 ```
 
 * [Dynamic public dividend mechanism](policy-discussion/dynamic-public-dividend.md)
-* [Challenges of traditional taxation in the technological era](policy-discussion/taxation-in-the-tech-era.md)
-* [How technology fees respond to taxation challenges](policy-discussion/technology-fee-response.md)
-* [Price adjustment and supply optimization](policy-discussion/supply-distortion-question.md)
-* [External challenges to the technology fee system](policy-discussion/external-challenges.md)
+* [Challenges faced by traditional tax systems in the technological era](policy-discussion/taxation-in-the-tech-era.md)
+* [Reinterpreting taxation through the lens of Technology Fee](policy-discussion/technology-fee-response.md)
+* [Reunderstanding supply issues through price structure changes](policy-discussion/supply-distortion-question.md)
+* [External environment issues related to Technology Fee structures](policy-discussion/external-challenges.md)
 
 ---
 
-### V. Institutional Evolution
+### V. Possible Structural Evolutions
 
 ```
 evolution/
 ```
 
-* [Enterprise strategy and technological division of labor](evolution/enterprise-strategy.md)
-* [Possible paths of institutional evolution](evolution/institutional-evolution.md)
+* [Changes in enterprise strategy and technological division of labor](evolution/enterprise-strategy.md)
+* [Possible manifestations of structural evolution](evolution/institutional-evolution.md)
 
 ---
 
@@ -175,13 +214,13 @@ evolution/
 appendix/industry/
 ```
 
-Explains differences in technology fee structures across industries with examples.
+Explains differences in Technology Fee structures across industries with examples.
 
 ---
 
 ### VII. Appendix II (Planned)
 
-Adaptation of existing systems to explicit technology fees
+Adaptation of existing systems to explicit Technology Fee structures
 
 ---
 
@@ -192,18 +231,32 @@ Current stage:
 **Open discussion + continuous revision**
 
 * **May 2025**: Initial concept
-* **October 2025**: Systematic structuring
-* **February 2026**: First public release (Zhihu)
+* **October 2025**: Systematic organization
+* **February 2026**: First public release on Zhihu
 * **March 2026**: GitHub project established
 
 ---
 
-## Major Updates
+## Update Notes
 
-### v0.2 (March 30, 2026 – April 2, 2026)
+### v0.2
 
-* Clarified that technology fees are an **explicit expression**, not an additional component
-* Unified the conceptual framework to avoid misunderstanding as “price decomposition”
+March 30, 2026 – April 2, 2026
+
+* Clarified Technology Fee as an “explicit expression,” not an added component
+* Unified expression logic across the project to avoid “price decomposition” misunderstandings
+
+---
+
+### v0.3
+
+April 5, 2026 – April 8, 2026
+
+* Clarified the project’s core as “identification of Technology Fee,” not price formation explanation
+* Added reading guidance to avoid misinterpretation as institutional design
+* Strengthened the definition of Technology Fee as identification of existing technological value
+* Removed predefined paths and institutional assumptions, unified as a structural analytical framework
+* Adjusted structure for clearer separation between analysis and extended discussions
 
 ---
 

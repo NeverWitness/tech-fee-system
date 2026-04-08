@@ -1,6 +1,6 @@
 # 技术费用相关结构的外部环境问题
 
-[上一节：价格结构变化与供给问题的再理解](../policy-discussion/supply_distortion_question.md)
+[上一节：价格结构变化与供给问题的再理解](../policy-discussion/supply-distortion-question.md)
 
 [回到目录](../index.md)
 

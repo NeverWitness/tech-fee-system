@@ -4,7 +4,7 @@
 
 **Project Status: Appendix Expansion Phase**
 
-The stable version is available via the [Pages version](https://neverwitness.github.io/tech-fee-framework/).
+The stable version is available via the [Pages version](https://neverwitness.github.io/tech-fee-framework/en/).
 
 ---
 

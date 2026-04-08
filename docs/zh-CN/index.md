@@ -203,7 +203,7 @@ evolution/
 ```
 
 - [企业策略与技术分工的可能变化](evolution/enterprise-strategy.md)
-- [制度的可能演化路径](evolution/institutional-evolution.md)
+- [可能的演化方向](evolution/institutional-evolution.md)
 
 ### 六、附录一：产业结构
 

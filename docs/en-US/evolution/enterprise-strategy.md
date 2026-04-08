@@ -1,281 +1,239 @@
-# Enterprise Strategy and Technological Division of Labor
+# Potential Changes in Enterprise Strategy and Technological Division of Labor
 
-[Previous: External Challenges to the Technology Fee System](../policy-discussion/external-challenges.md)
+[Previous: External Challenges for Technology Fee–Related Structures](../policy-discussion/external-challenges.md)
 
 [Back to Index](../index.md)
 
-Previous sections established that:
+As discussed previously:
 
-* Technology can enter a unified system through public access and licensed use
-* Technology fees are embedded in price structures
-* Technology fees can be distributed through institutional mechanisms
-* In open environments, the system faces external challenges
+* Technological value can be identified within price structures
+* Access to technology may vary under different conditions
+* Structural differences may exist across systems
 
-Based on this, a micro-level question arises:
+Based on this, a further question can be raised:
 
-**How will firms formulate strategies under a technology fee system? How will industrial division of labor evolve?**
+**As modes of technological access and price structures change, how might firm behavior adjust? How might industrial division of labor evolve?**
 
-The core conclusion of this section is:
-**The technology fee system will reshape firms’ optimal decision paths and drive the emergence of new technological divisions of labor.**
+It should be clarified:
 
----
-
-## I. Fundamental Choices Facing Firms
-
-Under a technology fee system, firms typically face a basic decision in production:
-
-**Whether to apply technology independently or to purchase products/components that already include technology fees.**
-
-This can be simplified into two strategic paths:
+**This section provides a conditional analysis and does not constitute predictions of firm behavior or descriptions of optimal strategies.**
 
 ---
 
-### 1. Direct Purchase (Embedded Technology Fees)
+## I. A Type of Decision Faced by Firms
+
+In actual production processes, firms typically face a fundamental question:
+
+**Given existing technological conditions, how should technology be accessed and applied?**
+
+Under different circumstances, several common approaches can be observed:
+
+### 1. Using Ready-Made Solutions
 
 Firms may choose to:
 
-* Purchase products or intermediate goods that include technology fees
-* Use mature technological solutions
+* Directly adopt existing products or intermediate goods
+* Use established technological solutions
 
-Characteristics include:
+Possible characteristics include:
 
-* Clear cost of technology use
-* Lower implementation difficulty
-* Shorter development cycles
-
-However:
-
-* Profit margins may be limited
-* Accumulation of technological capability may be slower
+* Clear implementation pathways
+* Relatively predictable application costs
+* Lower barriers to entry
 
 ---
 
-### 2. Independent Application of Technology (With Technology Fees)
+### 2. Independent Application Based on Existing Technology
 
 Firms may also choose to:
 
-* Obtain technology licenses
-* Apply and integrate technology independently
+* Integrate and apply existing technologies
+* Develop their own implementation approaches
 
-Characteristics include:
+Possible characteristics include:
 
-* Higher upfront investment
-* Requirement for technical and engineering capability
-* Greater organizational complexity
-
-Potential benefits include:
-
-* Higher efficiency
-* Greater control
-* Higher value-added output
+* Requires accumulated capabilities
+* Higher implementation complexity
+* Greater flexibility
 
 ---
 
-## II. Key Determinants of Strategic Choice
+### Summary
 
-Firms’ decisions between these paths typically depend on several factors:
+It should be emphasized:
+
+**These approaches are not mutually exclusive, nor are they rigidly defined.**
+
+---
+
+## II. Factors Influencing These Choices
+
+The choice between different approaches is typically influenced by multiple factors, such as:
 
 ### 1. Technological Complexity
 
-When technology is highly complex:
-
-* Independent application becomes more difficult
-* Firms are more likely to purchase mature solutions
-
-As technology matures:
-
-* Barriers to application decrease
-* More firms can participate
+* Higher complexity increases the cost of understanding and application
+* As technologies mature, barriers to application may decrease
 
 ---
 
-### 2. Firm Capabilities
+### 2. Capability Structure
 
-Internal capabilities are a key determinant, including:
+A firm’s capabilities may include:
 
-* Technical expertise
-* Engineering capability
-* Organizational capacity
+* Ability to understand technology
+* Engineering implementation capability
+* Organizational coordination capability
 
-Firms with stronger capabilities are more likely to **apply technology independently**,
-while others may prefer **off-the-shelf solutions**.
-
----
-
-### 3. Cost and Return Structure
-
-Firms evaluate:
-
-* Technology fee expenditures
-* Cost advantages from applying technology
-* Potential profit margins
-
-In some cases:
-
-* Direct purchase is more efficient
-* In others, independent application yields greater returns
+Different capability structures may lead to different choices.
 
 ---
 
-## III. Formation of Technological Division of Labor
+### 3. Cost–Benefit Considerations
 
-These strategic choices lead to the emergence of technological division of labor within industries.
+Firms typically balance factors such as:
 
-### 1. Technology Providers
+* Cost of accessing technology
+* Cost of applying technology
+* Potential returns
 
-Some actors specialize in:
-
-* Technology development
-* Building technological systems
-
-Their primary income comes from **technology fee revenues**.
+These relationships may vary across environments.
 
 ---
 
-### 2. Technology Users
+## III. An Observation on Division of Labor
 
-Other firms focus on:
+As firms follow different paths, certain patterns of division of labor may emerge, such as:
 
-* Applying technology
-* Producing goods
-* Operating in markets
+* Some actors focusing more on technology development
+* Others focusing more on application
+* Some combining both roles
 
-Their income primarily comes from **products and services**.
+It should be noted:
 
----
-
-### 3. Integrated Firms
-
-Some firms possess both:
-
-* Innovation capability
-* Application capability
-
-These firms often hold strong competitive positions.
+**This division of labor is not determined by a single mechanism, but results from multiple interacting factors.**
 
 ---
 
-## IV. Dynamic Nature of Division of Labor
+## IV. The Dynamic Nature of Division of Labor
 
-Technological division of labor is not static, but evolves over time.
+Such division of labor is not fixed and may adjust over time:
 
-### 1. Effects of Technology Diffusion
+### 1. Technological Diffusion
 
-As technology diffuses:
+As more actors gain access to and understanding of technology:
 
-* Technologies once controlled by a few firms
-* Become accessible to many
-
-This leads to:
-
-* More technology users
-* Increased competition
+* The number of application-focused actors may increase
+* Existing divisions may shift
 
 ---
 
-### 2. Effects of Technological Change
+### 2. Technological Change
 
 With the emergence of new technologies:
 
-* New technology providers appear
 * Existing structures may be disrupted
+* New forms of division of labor may arise
 
 ---
 
-### 3. Strategic Adjustments by Firms
+### 3. Actor Adjustment
 
-Firms may adapt over time by:
+Firms may adjust their roles based on their conditions:
 
-* Transitioning from users to innovators
-* Or shifting in the opposite direction
-
----
-
-## V. Evolution of Industrial Structure
-
-Firm strategies under a technology fee system drive broader industrial changes.
-
-### 1. Modularization
-
-With public access and licensing:
-
-* Technologies can become modular
-* Firms can assemble production through modules
-
-This helps:
-
-* Lower entry barriers
-* Improve efficiency
+* Changing modes of participation
+* Moving between different roles
 
 ---
 
-### 2. Specialization
+## V. Possible Characteristics of Industrial Structure
 
-Firms can increasingly specialize in:
+Under the combined influence of these factors, industrial structures may exhibit certain characteristics:
+
+### 1. Modularity
+
+Technologies and production processes may become modular:
+
+* Different components can operate relatively independently
+* Firms can combine them flexibly
+
+---
+
+### 2. Changes in Specialization
+
+Some firms may increasingly specialize in:
 
 * Technology development
 * Or technology application
-
-Enhancing efficiency through specialization.
 
 ---
 
 ### 3. Multi-Layered Structures
 
-Industries may develop layered structures:
+In some cases, it may be observed that:
 
-* Basic product layer
-* Upgraded product layer
-* Advanced technology layer
-
-Firms compete at different levels.
+**Products and services of varying levels of complexity and capability coexist.**
 
 ---
 
-## VI. Changes in Competitive Structure
+### Summary
 
-Under this system, the nature of competition changes.
+It should be emphasized:
 
-Traditional competition relied on:
-
-* Technological exclusivity
-* Patent barriers
-
-In a technology fee system, competition shifts toward:
-
-* Application capability
-* Organizational efficiency
-* Market execution
-
-Thus, **technology becomes a shared foundation rather than a barrier.**
+**These are possible structural characteristics, not inevitable outcomes.**
 
 ---
 
-## VII. A Key Conclusion
+## VI. Changes in Competitive Expression
 
-The core shift in firm strategy is:
+As modes of technological access change, it may be observed that:
 
-**from “whether to own technology” to “how to use technology effectively.”**
+* Technology itself is no longer the sole source of differentiation
+* The importance of application capability and organizational structure increases
 
-In this structure:
+Therefore:
 
-* Technology becomes part of a shared foundation
-* Firms differentiate through application capability
+**Differences may increasingly lie in how technology is used, rather than whether it is possessed.**
+
+---
+
+## VII. An Observation
+
+Under these conditions, an observation can be made:
+
+* Technology may function as a baseline condition
+* Differences between firms still persist
+
+These differences are more likely to arise from:
+
+* Modes of understanding
+* Modes of application
+* Modes of organization
 
 ---
 
 ## VIII. Summary
 
-The technology fee system reshapes firm behavior:
+This section has examined, from a structural perspective:
 
-* Firms choose between purchasing and applying technology
-* Technological division of labor emerges
-* Industrial structures become more modular and layered
+* Common choices firms face in accessing and applying technology
+* Possible changes in division of labor arising from these choices
+* Potential characteristics of industrial structures
 
-This transformation shifts competition from **ownership of technology** to **application and organizational capability**.
+It should be emphasized:
 
-The next section will examine **possible paths of institutional evolution**.
+* This is a conditional analysis
+* It does not predict firm behavior
+* Nor does it provide strategic recommendations
 
-[Next: Possible Paths of Institutional Evolution](../evolution/institutional-evolution.md)
+Its significance lies in:
+
+**Providing a perspective for understanding the relationship between technological structure and firm behavior.**
+
+The next section will examine:
+
+**Possible directions of structural evolution over time.**
+
+[Next: Possible Directions of Evolution](../evolution/institutional-evolution.md)
 
 [Back to Index](../index.md)
